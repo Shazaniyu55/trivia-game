@@ -1,7 +1,6 @@
 import "./statistic.css";
 import { AppState } from "../../../store/Slice";
 import { useSelector } from "react-redux";
-import { FaClock, FaGamepad, FaTrophy, FaPercentage, FaRedo, FaHeartbeat, FaExchangeAlt, FaQuestion, FaCheck, FaTimes } from "react-icons/fa"; // Import icons
 
 const Statistic = () => {
   const {statistic}  = useSelector((root: { app: AppState }) => root.app);
