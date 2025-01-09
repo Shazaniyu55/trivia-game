@@ -1,0 +1,100 @@
+Mind the Salt
+
+Overview
+Objective: A health-themed trivia game inspired by Who Wants to Be a Millionaire, designed to educate players about dietary salt reduction in an engaging and interactive way. Players earn Health Coins (HC) as they progress, with the goal of reaching the final level while reducing their "sodium intake."
+
+Target Audience:  
+- Adults and teens interested in health and nutrition education.
+- Public health campaigns aiming to promote healthier dietary habits.
+
+Platforms:  
+- Mobile (iOS and Android)  
+- Web-based 
+
+ Core Gameplay
+
+ Structure:
+1. Levels:
+•	The game has 12 questions, divided into four levels:
+     - Level 1: Basic Knowledge (Questions 1–3)  
+     - Level 2: Intermediate Knowledge (Questions 4–6)  
+     - Level 3: Advanced Knowledge (Questions 7–9)  
+     - Level 4: Final Round (Questions 10–12)  
+
+2. Progression:
+   - Players must answer questions correctly to advance.  
+   - Safety levels at Questions 3, 6, and 9 ensure progress is not entirely lost after incorrect answers.
+
+3. Currency (Health Coins):
+   - Players earn Health Coins (HC) for correct answers, fast responses, and completing milestones.  
+   - Coins can be spent on lifelines or bonus features.
+
+Win and Lose Conditions
+- Winning: Successfully answer all 12 questions to achieve the "Gold Health Champion" title.  
+- Losing: Use up all lifelines and fail a question beyond the last safety level. Players retain their earned HC up to the last safety level.
+
+ Game Features
+
+ 1. Question Format
+•	Question Types:
+  - Multiple-choice questions with 4 options.  
+  
+
+Timer:
+  - Each question has a 15-second timer. Fast responses earn bonus HC.  
+
+ 2. Lifelines
+Players start with three standard lifelines and can purchase more with Health Coins:
+1. Second Chance: Retry a missed question (Cost: 30 HC).  
+2. Shake the Salt: Eliminate two incorrect answers (Cost: 20 HC).  
+3. Health Swap: Replace the current question with a new one (Cost: 50 HC).
+
+ 3. Health Coins
+•	Earning Coins:
+  - Correct answers: 50 HC each.  
+  - Speed bonus: +10 HC for answering within 5 seconds.  
+  - Streak bonus: +30 HC for 3 consecutive correct answers.  
+
+Spending Coins:
+  - Lifelines: Purchase additional lifelines during gameplay.  
+
+ 4. Visual Progress Tracker
+- Salt Bar: A virtual health bar showing how much "salt" the player has reduced based on correct answers.  
+- Level Milestones: Visual checkpoints for safety levels (e.g., a saltshaker tipping over or emptying).
+
+ Game Mechanics
+
+ Gameplay Flow:
+1. Players start at Question 1 with 3 lifelines and 0 Health Coins.  
+2. For each correct answer, they earn HC and move to the next question.  
+3. Safety levels secure progress at Questions 3, 6, and 9.  
+4. Incorrect answers:
+   - Before a safety level: Lose all progress.  
+   - After a safety level: Return to that checkpoint.  
+
+ Scoring System:
+- Health Coins (HC) are displayed at the top of the screen throughout the game.  
+•	At the end of the game, HC contributes to a health ranking:
+o	500 HC → Bronze Health Status
+o	1,000 HC → Silver Health Status
+o	2,000 HC → Gold Health Champion
+
+ Win/Lose Screen:
+- Win Screen: "Congratulations! You’ve earned X HC and achieved the Gold Health Champion title!"  
+- Lose Screen: "Good effort! You’ve earned X HC and reached the Silver Health Champion rank."  
+
+ Visual Design
+
+Theme:
+Bright and Inviting:  
+  - Use food and health-related icons (e.g., salt shakers, vegetables, plates).  
+  - Animations for correct answers (e.g., a salt shaker spilling out coins).  
+
+ 
+
+ Audio and Feedback
+- Correct Answer: Cheerful chime and coin animation.  
+- Wrong Answer: Subtle "oops" sound with educational feedback.  
+- Background Music: Calm, health-themed music.  
+
+

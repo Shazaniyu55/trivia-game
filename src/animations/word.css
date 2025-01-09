@@ -1,0 +1,100 @@
+/* Style the container */
+.words {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+  }
+  
+  /* Style the rotating box */
+  .word {
+    position: relative;
+    width:50px;
+    height:50px;
+    border-radius:6px;
+    background:linear-gradient(30deg,var(--yellow1),var(--yellow));
+    color:rgb(9, 65, 41);
+    font-size:26px;
+    font-weight:bolder;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    box-shadow:4px 4px 0px 2px rgb(159, 241, 148),
+    4px 8px 0px 1px rgb(9, 65, 41);
+    text-shadow:inset 1px 0px var(--yellow);
+  }
+  .word.visible {
+    display: flex;
+    opacity: 1; /* Smooth fade-in effect */
+  }
+  
+  /* Class to hide the word */
+  .word.hidden {
+    display: none;
+  }
+
+  .words div:nth-child(1){
+  transform:translate(-2px,7px) rotate(-10deg);
+animation-name:laterFirst;
+animation-duration: 500ms; 
+}
+
+@keyframes laterFirst {
+  0%{
+    transform:translate(-50vw,40px) rotate(-10deg);
+  }
+  100%{
+    transform:translate(-2px,7px) rotate(-10deg);
+  }
+}
+
+
+  .words div:nth-child(2){
+    
+    box-shadow:1px 4px 0px 2px rgb(159, 241, 148),
+    4px 8px 0px 1px rgb(9, 65, 41);
+
+
+  transform:translate(0px,-1px) rotate(-4deg);
+  animation-name:secondFirst;
+  animation-duration: 1s; 
+  }
+  
+  @keyframes secondFirst {
+    0%{
+      transform:translate(0vw,-50vh) rotate(-10deg);
+    }
+    100%{
+      transform:translate(0px,-1px) rotate(-4deg);
+
+    }
+  }
+
+  .words div:nth-child(3){
+    box-shadow:1px 4px 0px 2px rgb(159, 241, 148),
+    4px 8px 0px 1px rgb(9, 65, 41);
+  transform:translate(0px,-1px) rotate(4deg);
+  animation-name:secondFirst;
+  animation-duration: 1s; 
+
+
+  }
+  .words div:nth-child(4){
+    
+    box-shadow:2px 4px 0px 2px rgb(159, 241, 148),
+    4px 8px 0px 1px rgb(9, 65, 41);
+
+  transform:translate(2px,7px) rotate(10deg);
+  animation-name:lastLatter;
+  animation-duration: 1s; 
+  }
+  
+  @keyframes lastLatter {
+    0%{
+      transform:translate(50vw,50px) rotate(-10deg);
+    }
+    100%{
+  transform:translate(2px,7px) rotate(10deg);
+
+    }
+  }

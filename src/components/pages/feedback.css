@@ -1,0 +1,52 @@
+.feedback{
+width:100%;    
+}
+.feedback button{
+    width:100%;
+    background:var(--yellowDark)
+}
+.feedback textarea{
+    height:100px;
+}
+.feedback textarea,.feedback input{
+    width:100%;    
+    background:none;
+    border:1px solid var(--bg3);
+    /* background:var(--bg); */
+    border-radius:10px;
+    color:lightgray;
+    resize:none;
+    padding: 10px;
+    
+    }
+
+    .feedback input{
+margin-top: 5px;
+    }
+.feedback button{
+    border-radius: 30px;
+    color:var(--green);
+}
+
+
+.feedback button:hover{
+    background: var(--bg3);
+}
+
+a{
+    color:rgb(116, 138, 116);
+}
+
+.contactForm{
+    background:rgba(47, 85, 47, 0.247);
+border-radius: 10px;
+}
+
+.contactForm b{
+    color:rgb(218, 206, 206);
+}
+
+
+.contactForm a:hover{
+    color:var(--yellowDark);
+}

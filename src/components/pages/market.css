@@ -1,0 +1,140 @@
+
+
+.header{
+    padding: 5px;
+    color:wheat;
+}
+.market .marketItem{
+    min-height:100px;
+    background: white;
+    /* border:1px solid white; */
+    background: var(--bg);
+border-radius:16px;
+padding: 10px;
+gap:10px;
+margin-top: 10px;
+}
+.market .marketItem img{
+    width:50px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.market .marketItem b{
+    color:rgb(221, 214, 205);
+
+}
+
+.market .marketItem span{
+    color:wheat;
+}
+
+.startButton{
+    color:var(--bg) !important;   
+    background:linear-gradient(30deg,var(--yellow1),var(--yellow));
+width:200px;
+
+border:1px solid var(--bg);
+border-radius: 30px !important;
+}
+
+
+/* Pulsing Animation */
+@keyframes pulsingEffect {
+    0% {
+      transform: scale(1);
+      box-shadow: 0 0 5px var(--yellow1), 0 0 15px var(--yellow1);
+    }
+    50% {
+      transform: scale(1.1);
+      box-shadow: 0 0 20px var(--yellow), 0 0 30px var(--yellow);
+    }
+    100% {
+      transform: scale(1);
+      box-shadow: 0 0 5px var(--yellow1), 0 0 15px var(--yellow1);
+    }
+  }
+  
+  .pulsingButton {
+    animation: pulsingEffect 2s ease-in-out infinite;
+  }
+  
+  /* Glowing Animation */
+  @keyframes glowingEffect {
+    0% {
+      box-shadow: 0 0 5px var(--yellow1), 0 0 15px var(--yellow1);
+    }
+    50% {
+      box-shadow: 0 0 20px var(--yellow1), 0 0 30px var(--yellow);
+    }
+    100% {
+      box-shadow: 0 0 5px var(--yellow1), 0 0 15px var(--yellow1);
+    }
+  }
+  
+  .glowingButton {
+    animation: glowingEffect 1.5s ease-in-out infinite;
+  }
+  
+  /* Bouncing Animation */
+  @keyframes bouncingEffect {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  .bouncingButton {
+    animation: bouncingEffect 1s ease-in-out infinite;
+  }
+
+
+.market .marketItem button{
+    color:white;
+    border-radius: 30px;
+    padding:2px 20px;
+    font-size: small;
+ background: radial-gradient(circle, var(--yellow),var(--bg));
+
+  transition: background-position 0.8s ease, box-shadow 0.8s ease-in-out;
+  animation:glowingBackground 2s ease-in-out infinite !important; 
+}
+
+
+
+@keyframes glowingBackground {
+    0% {
+      background-position: 200% 0;
+    }
+    50% {
+      background-position: 0 0; 
+
+      color:red !important;
+    }
+    100% {
+      background-position: 200% 0;
+    }
+  }
+
+.market .marketItem button:hover{
+    background:var(--yellowDark);
+    box-shadow: 0 0 20px rgba(1, 85, 1, 0.8), 0 0 30px rgba(1, 54, 1, 0.8), 0 0 40px rgba(24, 27, 8, 0.8); /* Glowing effect */
+  
+}
+.market .marketItem .own{
+    min-width:30px;
+    height: 30px;
+    background:var(--bg);
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    border-radius:15px;
+    border:1px solid wheat;
+    padding:0px 10px;
+}

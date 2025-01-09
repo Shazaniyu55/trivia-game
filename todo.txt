@@ -1,0 +1,13 @@
+1. create congratulations for levels success and failed level 
+coin animation
+correct/wrong popup
+
+2. remove live lines
+
+3. daily reward program
+
+4. settings - Reset app Data
+            - Report error
+5. learning page
+
+6.  add sounds

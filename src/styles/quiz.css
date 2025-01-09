@@ -1,0 +1,288 @@
+.quizQuestion{
+    width:100%;
+    min-height: 150px;
+    border-radius: 20px;
+    border:5px solid var(--yellowDark);
+    background: var(--bg);
+    padding:16px;
+    /* display:flex;
+    align-items:center;
+    justify-content: center; */
+    color:white;
+    position:relative !important;
+}
+.quizQuestion span{
+font-size:23px;
+}
+.quizQuestion .quizNum{
+  width:35px;
+  height: 35px;
+  border-radius:30px;
+  background:var(--yellowDark) ;
+  color:rgba(255, 255, 255, 0.904);
+  border:2px solid white;
+  
+  position:absolute;
+  left:0;
+  top:0;
+  margin: -10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:radial-gradient(var(--yellowDark),black);
+
+}
+.options button{
+    width:100%;
+    padding:10px;
+    border-radius: 20px;
+    border:1px solid white;
+    box-shadow:inset 0px 0px 10px 0px var(--bg);
+    margin-top: 10px;
+    font-size:large;
+    font-weight: bolder;
+    color:white;
+    opacity: 0; /* Initially hidden */
+  transform: translateY(-50px); /* Slide up effect */
+  animation: fadeIn 0.2s ease-in forwards; /* Animation for fade-in */
+  animation-delay: calc(var(--index) * 0.1s); /* Delay based on the button index */
+  background:radial-gradient(var(--yellowDark),black);
+  text-transform:initial !important;
+}
+.options button.shake{
+
+  
+  transform: translateX(-150vw); /* Start slightly below */
+animation-name:shake;
+animation-duration:300ms !important;
+}
+@keyframes shake{
+  from {
+    opacity: 1;
+    transform: translateX(-0vw);
+    
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0); /* Settle into place */
+    transform: translateX(150vw); /* Start slightly below */
+  }
+}
+
+.options button:hover{
+  background:radial-gradient(var(--yellowDark),60% black);
+
+}
+
+.options button:active{
+  background:radial-gradient(var(--yellowDark),black);
+}
+/* Keyframes for fade-in animation */
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-50px); /* Start slightly below */
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0); /* Settle into place */
+    }
+  }
+
+  .QuizBottomNav {
+    width:100%;
+    border-radius: 10px;
+padding: 6px 10px;
+    display: flex;
+    align-items:center;
+    justify-content:space-around;
+    min-width: 100%;
+  }
+.QuizBottomNav button{
+    border-radius:7.5px;
+    width:30px;
+    width:30px;
+    max-width:40px;
+    min-height:50px;
+    transition:all;
+    transition-duration:400ms;
+    background:var(--darkYellow);
+    /* border:1px solid white; */
+    display: block;
+    padding:5px;
+  }
+  .QuizBottomNav button {
+    text-shadow:1px 1px 10px 0px lightgrey;
+    color:#f5d5d3 !important;
+    text-shadow:1px 0px rgb(229, 162, 226);
+    font-size:12;
+    border:1px solid var(--darkYellow);
+    background:radial-gradient(var(--bg),var(--yellowDark));
+    border-radius: 50%;
+    width:35px;
+    height: 35px;
+    max-width: 35px;
+    background:rgba(2, 10, 3, 0.589);
+  }
+
+  
+  .QuizBottomNav button:hover{
+    background:rgba(10, 2, 2, 0.082);
+  }
+  .QuizBottomNav button span{
+    font-size:12;
+  }
+  .QuizBottomNav button img{
+    border-radius:50%;
+/* animation-duration:2s; */
+/* animation-iteration-count: infinite; */
+animation-name: zoomInEase;
+  }
+  .QuizBottomNav button.disabled{
+    opacity: 0.2;
+  }
+  @keyframes zoomInEase {
+    0% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+    0% {
+      transform: scale(1);
+      opacity: 0.5;
+    }
+    100% {
+      transform: scale(0.5);
+      opacity: 1;
+    }
+  }
+  .QuizBottomNav button img:nth-child(2){
+animation-name:zoomInEaseOut;
+  }
+  
+  /* Define the keyframes for Zoom-In with Ease-out */
+  @keyframes zoomInEaseOut {
+    0% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  .QuizBottomNav button img:nth-child(2){
+    animation-name:zoomInBounce;
+      }
+  /* Define the keyframes for Zoom-In with Bounce */
+  @keyframes zoomInBounce {
+    0% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+    50% {
+      transform: scale(1.1);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  .QuizBottomNav button > span{
+    display:block;
+    font-size: 9px !important;
+    color:white;
+  }
+  .QuizBottomNav button .MuiBadge{
+background: var(--bg) !important;
+
+  }
+
+
+
+
+/* Style the container */
+.QuizBottomNav .travia-container {
+
+  min-height: 50px;
+ 
+  text-shadow:1px 1px green,1px 1px rgb(15, 14, 19);
+  clip-path: polygon(10% 0, 90% 0, 100% 50%, 90% 100%, 10% 100%, 0 50%);
+  background: linear-gradient(30deg, var(--green) 40%, var(--bg) 50%, var(--green) 60%);
+  background-size: 200% 200%; /* Ensure gradient has enough space to animate */
+  
+  align-items:center;
+  justify-content:space-around;
+  min-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .Correct{
+    color:white;
+    font-weight: bolder;
+    position: fixed;
+  animation-name:correct;
+  animation-duration: 600ms;
+  font-weight:bolder;
+  transform:translate(64vw,-35.3vh);
+text-shadow:1px 1px 0px green;
+  }
+
+  
+  .Wrong{
+    color:rgb(245, 153, 153);
+    font-weight: bolder;
+    position: fixed;
+  animation-name:correct;
+  animation-duration: 600ms;
+  font-weight:bolder;
+  transform:translate(64vw,-35.3vh);
+text-shadow:1px 1px 0px black;
+  }
+
+  
+
+@keyframes correct {
+  0%{
+transform:translate(0,0)
+  }
+  100%{
+    transform:translate(64vw,-35.3vh);
+
+    
+  }
+}

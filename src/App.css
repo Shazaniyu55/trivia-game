@@ -1,0 +1,254 @@
+body{
+  padding:0;
+    margin:0;
+    width:100%;
+  }
+/* @media (min-width:600px) {
+body{
+  
+display: flex;
+justify-content: center;
+
+  margin:0 auto;
+}
+nav{
+  top: 0%  !important;
+  left: 50% !important;
+  transform: translate(-50%, -0%) !important;
+}
+.bottomNav{
+  top: 0%  !important;
+  left: 50% !important;
+  transform: translate(-50%, -0%) !important;
+}
+.body{
+  min-width:600px !important; 
+  max-width:600px !important; 
+}
+.scrollbar-container{
+  max-width:550px !important; 
+}
+
+}   */
+  #root {
+    --color: rgb(210, 8, 233); /* Deep green for primary color */
+    --bg: #9606a6; /* Dark green for background */
+    --bg2: #00594f; /* Slightly lighter green for secondary background */
+    --bg3: #007d64; /* Accent green */
+    --white: rgb(245, 245, 245); /* Soft white */
+    --yellow1: rgb(255, 154, 2); /* Light green for highlights */
+    --yellow: rgb(65, 65, 3); /* Vibrant green */
+    --yellowDark: #B2533E; /* Darker green for shadows */
+    --whiteBorder: 2px solid rgb(245, 245, 245); /* White border */
+    --green:rgb(0, 200, 83);
+    max-height: 91vh !important;
+    --bg-dark: #333; /* Dark background color */
+  --bg-hover-dark: #444; /* Hover color for buttons/items */
+  --bg-border: #555; /* Border color for menu */
+
+    /* max-width:600px; */
+
+  }
+  .bottomReadingNav *{
+    color:var(--color) !important;
+  }
+ ul.MuiList-root{
+  background: #333 !important;
+ }
+  *::selection{
+    background:none;
+    /* color:; */
+  }
+nav{
+  /* background:rgba(255, 255, 255, 0.13); */
+  backdrop-filter: blur(20px);
+  position:fixed;
+  width:100%;
+  left:0;
+  top:0;
+  position:fixed;
+  padding:7px;
+  margin:0;
+  background:var(--bg);
+  z-index:9999;
+  /* max-width:600px; */
+
+}
+
+.div.framerCover iframe{
+  box-shadow: 1px 1px 30px 0px rgb(0, 0, 0);
+}
+.body{
+  background: linear-gradient(var(--bg),black);
+  z-index: 99;
+  width:100%;
+  height:100vh;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  padding:10px;
+  overflow:auto;
+  /* max-width:100vw; */
+  /* max-height:100vh; */
+  max-height: 91vh !important;
+
+
+}
+/* 
+.bodyBg{
+  background: linear-gradient(rgba(33, 105, 0, 0.247),rgba(0, 0, 0, 0.742),black);
+} */
+
+  .bodyBg{
+    width:100%;
+    background:var(--bg) !important;
+}
+
+.topCoin{
+  border-radius: 35px;
+  border:var(--whiteBorder);
+padding:5px 6px;
+border-width: 2px;
+gap:6px;
+background:var(--bg);
+min-width:100px;
+padding-right: 16px;
+}
+
+.topCoin *{
+  color:var(--white);
+}
+
+.HC{
+  width:24px;
+  height:24px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+ /* Coin shape */
+ border-radius: 50%;
+ background: radial-gradient(circle, var(--yellow),var(--green));
+ border:1px solid var(--green);
+box-shadow:
+0px 0px 0px 3px var(--yellow1),
+2px 2px 0px 4px var(--yellowDark)
+
+;
+
+ /* Optional: Coin text or content */
+ color:black;
+ font-size: 12px;
+ font-weight: bold;
+ text-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.8);
+ cursor: pointer;
+ /* animation-name: coinFlip; */
+ animation-duration: 1s;
+ animation-iteration-count: infinite;
+}
+
+/* Hover effect for a polished coin look */
+.HC:hover {
+ transform: scale(1.1);
+ transition: 0.2s ease-in-out;
+}
+@keyframes coinFlip {
+  0% {
+    transform: rotateY(0deg) scale(1);
+  }
+  50% {
+    transform: rotateY(180deg) scale(1.2);
+  }
+  100% {
+    transform: rotateY(360deg) scale(1);
+  }
+}
+
+@keyframes coinSpin {
+  0% {
+    transform: rotateX(0deg) rotateZ(0deg);
+  }
+  50% {
+    transform: rotateX(180deg) rotateZ(45deg);
+  }
+  100% {
+    transform: rotateX(360deg) rotateZ(0deg);
+  }
+}
+
+.winnerCounter{
+  border-radius: 35px;
+  border:2px solid white;
+border-width: 2px;
+background:rgba(255, 255, 255, 0.007);
+width:40%;
+overflow:hidden;
+position:relative;
+display:flex;
+justify-content:flex-start;
+}
+.winnerCounter .progress{
+  width:90%;
+  height:15px;
+  background:linear-gradient(33deg,red,var(--yellowDark),white);
+
+}
+
+
+
+.footerButton{
+  color:var(--green) !important; 
+}
+
+.rotate-icon {
+  transition: transform 0.3s ease-in-out; /* Smooth transition for the rotation */
+}
+
+.rotate-icon:hover {
+  transform: rotate(180deg); /* Rotate the image by 180 degrees on hover */
+}
+
+.glow-icon {
+  transition: all 0.3s ease-in-out;
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.5), 0 0 15px rgba(28, 100, 31, 0.753);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.5), 0 0 15px rgba(255, 255, 255, 0.5);
+background-color:var(--bg)
+}
+
+.glow-icon:hover {
+  animation: glowing 1.5s infinite alternate;
+}
+
+@keyframes glowing {
+  0% {
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.5), 0 0 15px rgba(255, 255, 255, 0.5);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.5), 0 0 15px rgba(255, 255, 255, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 20px rgba(0, 255, 255, 1), 0 0 30px rgba(0, 255, 255, 1), 0 0 40px rgba(0, 255, 255, 1);
+    text-shadow: 0 0 20px rgba(0, 255, 255, 1), 0 0 30px rgba(0, 255, 255, 1), 0 0 40px rgba(0, 255, 255, 1);
+  }
+}
+
+
+.rotate-zoom-icon {
+  transition: transform 0.3s ease-in-out; /* Smooth transition for both rotation and scaling */
+}
+
+.rotate-zoom-icon:hover {
+  transform: scale(1.2); /* Rotate by 180 degrees and zoom in */
+}
+.rotate-zoom-icon-animation{
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-name: zoomIcon;
+}
+@keyframes zoomIcon {
+0%{
+  transform: scale(1.2); /* Rotate by 180 degrees and zoom in */
+
+}
+50%{
+  transform: scale(1); 
+}
+  100%{
+  transform: scale(1.2); 
+}
+}

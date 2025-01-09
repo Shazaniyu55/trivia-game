@@ -1,0 +1,61 @@
+.levelCard{
+    border-radius:10px;
+    background:rgba(47, 28, 58, 0.742);
+    width:100%;
+    margin:0 auto;
+    min-height:60px;
+    margin-top:10px;
+    padding:10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    transition: all;
+    transition-duration: 300ms;
+    animation: scaleSlideUp 0.7s ease-out forwards;
+    cursor:pointer;
+}
+
+@keyframes scaleSlideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px) scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+} 
+
+
+.levelCard.disabled{
+    opacity: 0.5 !important;
+}
+.levelCard.disabled:hover{
+    background:rgba(58, 42, 28, 0.322) !important;
+    border:none !important;
+}
+.levelCard:hover{
+    background:rgba(58, 42, 28, 0.742);
+    border:1px solid var(--yellow1);
+}
+.levelCard:active{
+    background:none;
+}
+.levelCard b{
+font-size:19px;
+display:block;
+color:var(--yellow1);
+margin-top: 2px;
+transform:translate(0px,5px)
+
+}
+
+.levelCard small{
+    color:rgb(168, 161, 159);
+    font-size:small;
+    padding:0;
+    margin:0;
+    transform:translate(0px,-5px)
+}

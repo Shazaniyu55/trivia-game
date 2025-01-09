@@ -1,0 +1,4199 @@
+Level 1: Basic Knowledge Questions
+
+1. What is the recommended daily sodium intake for adults?
+ Options:  
+  A. 1,500 mg  
+  B. 2,300 mg  
+  C. 3,000 mg  
+  D. 4,000 mg  
+ Correct Answer: B  
+ Feedback:  
+  "Correct! The recommended maximum sodium intake for adults is 2,300 mg, about 1 teaspoon of salt. Consuming less is even better for your health!"
+
+
+
+ 2. Which organ is most affected by high salt consumption?
+ Options:  
+  A. Liver  
+  B. Heart  
+  C. Kidneys  
+  D. Lungs  
+ Correct Answer: C  
+ Feedback:  
+  "Correct! High salt intake puts stress on the kidneys, which work to filter excess sodium. Over time, this can lead to kidney damage."
+
+
+
+ 3. What is sodium's primary function in the body?
+ Options:  
+  A. Providing energy  
+  B. Regulating fluid balance  
+  C. Repairing tissues  
+  D. Protecting bones  
+ Correct Answer: B  
+ Feedback:  
+  "Correct! Sodium helps maintain fluid balance and supports muscle and nerve function. Too much sodium, however, disrupts this balance."
+
+
+
+ 4. Which of the following is considered a high-sodium food?
+ Options:  
+  A. Fresh apples  
+  B. Plain bread  
+  C. Processed bacon  
+  D. Raw chicken  
+ Correct Answer: C  
+ Feedback:  
+  "Correct! Processed meats like bacon are among the highest-sodium foods due to added salts and preservatives."
+
+
+
+ 5. What is the main source of sodium in most diets?
+ Options:  
+  A. Table salt  
+  B. Packaged and processed foods  
+  C. Fresh vegetables  
+  D. Fruits  
+ Correct Answer: B  
+ Feedback:  
+  "Correct! Over 70% of dietary sodium comes from packaged and processed foods, not table salt."
+
+
+
+ 6. What does the term “sodium-free” mean on a food label?
+ Options:  
+  A. Less than 5 mg of sodium per serving  
+  B. Less than 50 mg of sodium per serving  
+  C. Zero sodium  
+  D. Less than 100 mg of sodium per serving  
+ Correct Answer: A  
+ Feedback:  
+  "Correct! 'Sodium-free' means the product contains less than 5 mg of sodium per serving."
+
+
+
+ 7. How much sodium is in 1 teaspoon of table salt?
+ Options:  
+  A. 1,000 mg  
+  B. 1,500 mg  
+  C. 2,300 mg  
+  D. 3,000 mg  
+ Correct Answer: C  
+ Feedback:  
+  "Correct! One teaspoon of table salt contains about 2,300 mg of sodium, which is the daily limit for most adults."
+
+
+
+ 8. What health condition is most closely associated with high sodium intake?
+ Options:  
+  A. Diabetes  
+  B. High blood pressure  
+  C. Asthma  
+  D. Osteoporosis  
+ Correct Answer: B  
+ Feedback:  
+  "Correct! High sodium intake is strongly linked to high blood pressure, a major risk factor for heart disease and stroke."
+
+
+
+ 9. Which of these drinks is likely to have the least sodium?
+ Options:  
+  A. Sports drinks  
+  B. Bottled water  
+  C. Canned vegetable juice  
+  D. Soda  
+ Correct Answer: B  
+ Feedback:  
+  "Correct! Bottled water typically contains little to no sodium, unlike many other beverages."
+
+
+
+ 10. What percentage of daily sodium intake comes from processed foods?
+ Options:  
+  A. 25%  
+  B. 50%  
+  C. 70%  
+  D. 90%  
+ Correct Answer: C  
+ Feedback:  
+  "Correct! About 70% of dietary sodium comes from processed and restaurant foods, not table salt."
+
+
+11. Which of these is a naturally low-sodium food?
+•	Options:
+A. Fresh spinach
+B. Canned soup
+C. Processed bread
+D. Salami
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh vegetables like spinach are naturally low in sodium. Canned and processed foods often have added sodium."
+________________________________________
+12. How can you tell how much sodium is in a food?
+•	Options:
+A. By looking at the ingredient list
+B. By checking the Nutrition Facts label
+C. By tasting it
+D. By its price
+•	Correct Answer: B
+•	Feedback:
+"Correct! The Nutrition Facts label lists the amount of sodium per serving, helping you make informed choices."
+________________________________________
+13. What does “reduced sodium” mean on a food label?
+•	Options:
+A. The food has no sodium
+B. The food has at least 25% less sodium than the regular version
+C. The food has less than 140 mg of sodium per serving
+D. The food is healthier than other options
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'Reduced sodium' means the food has at least 25% less sodium than the standard version."
+________________________________________
+14. Which of these is a healthy alternative to salt for flavour?
+•	Options:
+A. Sugar
+B. Lemon juice
+C. Butter
+D. Soy sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Lemon juice and other natural seasonings can enhance flavour without adding sodium."
+________________________________________
+15. Which health problem can result from excessive sodium intake over time?
+•	Options:
+A. Hypertension (high blood pressure)
+B. Lung cancer
+C. Depression
+D. Arthritis
+•	Correct Answer: A
+•	Feedback:
+"Correct! Excessive sodium intake raises blood pressure, increasing the risk of heart disease and stroke."
+________________________________________
+16. True or False: You need to add salt to your diet to stay healthy.
+•	Correct Answer: False
+•	Feedback:
+"Correct! The body gets enough sodium from natural foods, so you don’t need to add extra salt."
+________________________________________
+17. How does excess sodium affect your heart?
+•	Options:
+A. Increases blood pressure
+B. Decreases heart rate
+C. Reduces cholesterol levels
+D. Strengthens the heart
+•	Correct Answer: A
+•	Feedback:
+"Correct! Too much sodium raises blood pressure, putting strain on your heart."
+________________________________________
+18. Which of these is considered a low-sodium snack?
+•	Options:
+A. Plain popcorn
+B. Salted peanuts
+C. Pretzels
+D. Cheese sticks
+•	Correct Answer: A
+•	Feedback:
+"Correct! Plain popcorn is a healthy, low-sodium snack when prepared without added salt or butter."
+________________________________________
+19. What percentage of daily sodium intake comes from table salt?
+•	Options:
+A. 10%
+B. 25%
+C. 50%
+D. 70%
+•	Correct Answer: A
+•	Feedback:
+"Correct! Only about 10% of sodium comes from table salt. The majority comes from processed and packaged foods."
+________________________________________
+20. Which type of salt contains the least sodium?
+•	Options:
+A. Table salt
+B. Sea salt
+C. Himalayan pink salt
+D. All contain similar amounts of sodium
+•	Correct Answer: D
+•	Feedback:
+"Correct! All types of salt, including sea salt and Himalayan salt, have similar sodium content by weight."
+________________________________________
+21. What’s the best way to reduce sodium when cooking at home?
+•	Options:
+A. Use less table salt
+B. Avoid processed ingredients
+C. Add herbs and spices for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Reducing table salt, avoiding processed foods, and using natural seasonings can all help reduce sodium intake."
+________________________________________
+22. True or False: Frozen vegetables are always high in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Most plain frozen vegetables are low in sodium, but avoid those with added sauces or seasonings."
+________________________________________
+23. Which of these breakfast options is lowest in sodium?
+•	Options:
+A. Oatmeal with fresh fruit
+B. Sausage and eggs
+C. Bagel with cream cheese
+D. Cereal with milk
+•	Correct Answer: A
+•	Feedback:
+"Correct! Oatmeal with fresh fruit is naturally low in sodium and makes for a heart-healthy breakfast."
+________________________________________
+24. What happens when the kidneys cannot process excess sodium?
+•	Options:
+A. Sodium is stored in the bones
+B. Blood pressure increases
+C. The body produces more insulin
+D. Sodium is converted to fat
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excess sodium leads to fluid retention, increasing blood pressure and straining the kidneys."
+________________________________________
+25. What does “sodium content per serving” on a food label mean?
+•	Options:
+A. The amount of sodium in the entire package
+B. The amount of sodium in one serving size
+C. The amount of sodium added during cooking
+D. None of the above
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium content per serving reflects the amount of sodium in a single serving, as defined on the label."
+26. True or False: Bread can be a major source of sodium.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Bread and other baked goods can contain significant amounts of sodium, especially if they are processed or pre-packaged."
+________________________________________
+27. Which of these condiments typically has the least sodium?
+•	Options:
+A. Mustard
+B. Soy sauce
+C. Vinegar
+D. Ketchup
+•	Correct Answer: C
+•	Feedback:
+"Correct! Vinegar is a low-sodium option for adding flavour, unlike soy sauce or ketchup."
+________________________________________
+28. What percentage of your daily sodium intake should ideally come from natural foods?
+•	Options:
+A. 10%
+B. 25%
+C. 50%
+D. 100%
+•	Correct Answer: D
+•	Feedback:
+"Correct! Ideally, all of your sodium intake should come from natural, unprocessed foods, which provide enough sodium for your body’s needs."
+________________________________________
+29. Which is a good alternative to salt in recipes?
+•	Options:
+A. Sugar
+B. Lemon zest
+C. Butter
+D. MSG
+•	Correct Answer: B
+•	Feedback:
+"Correct! Lemon zest, garlic, and other natural seasonings can enhance flavour without adding sodium."
+________________________________________
+30. Which type of cheese is generally lower in sodium?
+•	Options:
+A. Feta
+B. Parmesan
+C. Swiss
+D. Blue cheese
+•	Correct Answer: C
+•	Feedback:
+"Correct! Swiss cheese tends to have less sodium compared to processed or aged cheeses like feta or parmesan."
+________________________________________
+31. What does "no added salt" mean on a food label?
+•	Options:
+A. The product contains no sodium at all
+B. The product has no salt added during processing
+C. The product is sodium-free
+D. The product is safe for everyone
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'No added salt' means that no salt was added during processing, but the product may still contain natural sodium."
+________________________________________
+32. True or False: Cooking at home can help you reduce sodium intake.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Cooking at home gives you control over the ingredients and allows you to use less salt."
+________________________________________
+33. Which of these is NOT a low-sodium snack?
+•	Options:
+A. Unsalted nuts
+B. Carrot sticks
+C. Salted crackers
+D. Fresh fruit
+•	Correct Answer: C
+•	Feedback:
+"Correct! Salted crackers can be high in sodium, unlike fresh fruits or unsalted nuts."
+________________________________________
+34. How does sodium affect blood pressure?
+•	Options:
+A. It lowers blood pressure
+B. It increases blood pressure
+C. It stabilises blood pressure
+D. It has no effect on blood pressure
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium intake causes the body to retain water, increasing blood pressure."
+________________________________________
+35. Which of these foods is likely to have the highest sodium content?
+•	Options:
+A. Fresh cucumber
+B. Canned soup
+C. Boiled potatoes
+D. Steamed broccoli
+•	Correct Answer: B
+•	Feedback:
+"Correct! Canned soups are often loaded with sodium to enhance flavour and preserve freshness."
+________________________________________
+36. True or False: All frozen meals are high in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! While many frozen meals are high in sodium, there are low-sodium options available. Always check the label."
+________________________________________
+37. What is a safe way to flavour food without adding sodium?
+•	Options:
+A. Use garlic powder
+B. Add bouillon cubes
+C. Use salted butter
+D. Add MSG
+•	Correct Answer: A
+•	Feedback:
+"Correct! Garlic powder, onion powder, and herbs are great for adding flavour without increasing sodium."
+________________________________________
+38. Which of these meats is typically highest in sodium?
+•	Options:
+A. Grilled chicken breast
+B. Roasted turkey
+C. Cured ham
+D. Fresh fish
+•	Correct Answer: C
+•	Feedback:
+"Correct! Processed and cured meats like ham are high in sodium due to added salts and preservatives."
+________________________________________
+39. Which drink is sodium-free?
+•	Options:
+A. Bottled water
+B. Diet soda
+C. Sports drinks
+D. Canned vegetable juice
+•	Correct Answer: A
+•	Feedback:
+"Correct! Plain bottled water is sodium-free, while sodas and sports drinks often contain added sodium."
+________________________________________
+40. How does sodium affect water retention?
+•	Options:
+A. It decreases water retention
+B. It has no effect
+C. It increases water retention
+D. It stabilises water retention
+•	Correct Answer: C
+•	Feedback:
+"Correct! Sodium causes the body to retain water, which can lead to swelling and increased blood pressure."
+________________________________________
+41. What is the sodium limit for a food to be considered low-sodium?
+•	Options:
+A. 100 mg per serving
+B. 140 mg per serving
+C. 200 mg per serving
+D. 300 mg per serving
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium foods contain 140 mg of sodium or less per serving."
+________________________________________
+42. True or False: Sodium is necessary for muscle function.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Sodium helps muscles contract and nerves function, but too much can be harmful."
+________________________________________
+43. Which food is the best option for a low-sodium lunch?
+•	Options:
+A. Grilled chicken salad with lemon juice
+B. Pepperoni pizza
+C. Tuna sandwich with mayonnaise
+D. Cheese quesadilla
+•	Correct Answer: A
+•	Feedback:
+"Correct! A salad with grilled chicken and lemon juice is naturally low in sodium."
+________________________________________
+44. Which of these is a hidden source of sodium?
+•	Options:
+A. Cereal
+B. Fresh apples
+C. Raw eggs
+D. Honey
+•	Correct Answer: A
+•	Feedback:
+"Correct! Many cereals contain added sodium, even though they don’t taste salty."
+________________________________________
+45. How does reducing sodium improve health?
+•	Options:
+A. It lowers blood pressure
+B. It reduces water retention
+C. It lowers the risk of heart disease
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Reducing sodium has multiple health benefits, including lowering blood pressure and reducing heart disease risk."
+________________________________________
+46. True or False: Fresh fruit contains very little sodium.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Fresh fruits are naturally low in sodium and make great snack options."
+________________________________________
+47. What’s the best way to reduce sodium in canned beans?
+•	Options:
+A. Add vinegar
+B. Rinse them under water
+C. Boil them again
+D. Add more salt during cooking
+•	Correct Answer: B
+•	Feedback:
+"Correct! Rinsing canned beans under water can remove up to 40% of the sodium."
+________________________________________
+48. Which soup is likely to have the least sodium?
+•	Options:
+A. Cream of mushroom
+B. Chicken noodle soup
+C. Low-sodium vegetable soup
+D. Clam chowder
+•	Correct Answer: C
+•	Feedback:
+"Correct! Look for soups labeled 'low sodium' to cut back on added salt."
+________________________________________
+49. Which food group naturally contains the least sodium?
+•	Options:
+A. Dairy products
+B. Fruits and vegetables
+C. Grains
+D. Meats
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh fruits and vegetables are naturally low in sodium."
+51. Which cooking method adds the least sodium to food?
+•	Options:
+A. Deep-frying
+B. Steaming
+C. Baking with salt
+D. Grilling with marinades
+•	Correct Answer: B
+•	Feedback:
+"Correct! Steaming adds no sodium and preserves the natural flavours of the food."
+________________________________________
+52. True or False: Sea salt is healthier than table salt.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Sea salt and table salt contain similar sodium levels by weight. The difference is only in texture and flavour."
+________________________________________
+53. Which is a good strategy to reduce sodium intake?
+•	Options:
+A. Eat smaller portions of high-sodium foods
+B. Avoid processed snacks
+C. Cook at home with fresh ingredients
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these strategies can significantly reduce your daily sodium intake."
+________________________________________
+54. What is the maximum daily sodium intake recommended for children aged 4–8?
+•	Options:
+A. 1,200 mg
+B. 1,500 mg
+C. 2,000 mg
+D. 2,300 mg
+•	Correct Answer: A
+•	Feedback:
+"Correct! For children aged 4–8, the recommended sodium limit is 1,200 mg per day."
+________________________________________
+55. Which of these foods is naturally high in sodium?
+•	Options:
+A. Cucumber
+B. Celery
+C. Banana
+D. Apple
+•	Correct Answer: B
+•	Feedback:
+"Correct! Celery is naturally higher in sodium compared to most fruits and vegetables."
+________________________________________
+56. What does "sodium reduction" mean?
+•	Options:
+A. Reducing sodium intake from all sources
+B. Eliminating table salt from the diet
+C. Avoiding salty-tasting foods
+D. Cooking food without salt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium reduction means lowering your overall sodium intake, including from hidden sources like processed foods."
+________________________________________
+57. Which type of milk is naturally low in sodium?
+•	Options:
+A. Skim milk
+B. Whole milk
+C. Almond milk
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Both dairy and plant-based milks like almond milk are naturally low in sodium."
+________________________________________
+58. What’s the purpose of sodium in processed foods?
+•	Options:
+A. To enhance flavour
+B. To preserve freshness
+C. To improve texture
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Sodium is used in processed foods for flavour, preservation, and texture."
+________________________________________
+59. How does sodium affect bone health?
+•	Options:
+A. Increases calcium loss in urine
+B. Strengthens bones
+C. Prevents bone loss
+D. Has no effect
+•	Correct Answer: A
+•	Feedback:
+"Correct! High sodium intake can lead to calcium loss in urine, which may weaken bones over time."
+________________________________________
+60. Which soup ingredient is typically high in sodium?
+•	Options:
+A. Broth cubes
+B. Fresh carrots
+C. Cooked rice
+D. Garlic cloves
+•	Correct Answer: A
+•	Feedback:
+"Correct! Broth cubes and bouillon are very high in sodium and should be used sparingly."
+________________________________________
+61. True or False: Sodium is naturally present in almost all foods.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Sodium is naturally present in small amounts in most foods, but excessive amounts come from added salt and processed foods."
+________________________________________
+62. Which of these canned foods is likely the lowest in sodium?
+•	Options:
+A. Canned beans
+B. Low-sodium canned beans
+C. Regular canned soup
+D. Canned pasta sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium versions of canned beans or vegetables are a better choice."
+________________________________________
+63. What’s the easiest way to identify high-sodium foods?
+•	Options:
+A. Taste them
+B. Read the food label
+C. Check for preservatives
+D. Look at the colour of the food
+•	Correct Answer: B
+•	Feedback:
+"Correct! The Nutrition Facts label provides the sodium content per serving."
+________________________________________
+64. How much sodium is in 2 teaspoons of table salt?
+•	Options:
+A. 2,300 mg
+B. 4,600 mg
+C. 5,000 mg
+D. 1,000 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! Each teaspoon contains about 2,300 mg, so 2 teaspoons equal 4,600 mg of sodium."
+________________________________________
+65. Which of these helps lower blood pressure?
+•	Options:
+A. Eating more potassium-rich foods
+B. Drinking more caffeine
+C. Increasing sodium intake
+D. Avoiding all water
+•	Correct Answer: A
+•	Feedback:
+"Correct! Potassium counteracts sodium’s effects and helps lower blood pressure."
+________________________________________
+66. What’s the sodium content in a "low-sodium" product?
+•	Options:
+A. Less than 140 mg per serving
+B. Less than 200 mg per serving
+C. Less than 500 mg per serving
+D. Less than 1,000 mg per serving
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'Low sodium' means the food contains less than 140 mg of sodium per serving."
+________________________________________
+67. What’s the best way to reduce sodium in homemade soup?
+•	Options:
+A. Add more salt later
+B. Use herbs and spices instead of salt
+C. Add bouillon cubes for flavour
+D. Use salted broth
+•	Correct Answer: B
+•	Feedback:
+"Correct! Herbs and spices add flavour without sodium, making your soup healthier."
+________________________________________
+68. Which of these foods is naturally low in sodium?
+•	Options:
+A. Bananas
+B. Cheese
+C. Pickles
+D. Bread
+•	Correct Answer: A
+•	Feedback:
+"Correct! Bananas and other fresh fruits are naturally low in sodium."
+________________________________________
+69. True or False: Processed snacks are the leading source of sodium in children’s diets.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Processed snacks like chips and crackers are a major source of sodium in children’s diets."
+________________________________________
+70. How much sodium is in "sodium-free" foods?
+•	Options:
+A. Less than 5 mg per serving
+B. Less than 50 mg per serving
+C. Less than 100 mg per serving
+D. Zero sodium
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'Sodium-free' means less than 5 mg per serving."
+________________________________________
+71. Which grain is naturally sodium-free?
+•	Options:
+A. White rice
+B. Quinoa
+C. Oats
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Grains like rice, quinoa, and oats are naturally sodium-free before processing."
+________________________________________
+72. True or False: Pickles are low in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Pickles are high in sodium due to the brining process."
+________________________________________
+73. Which food has the least hidden sodium?
+•	Options:
+A. Fresh chicken
+B. Marinated chicken
+C. Deli meat
+D. Sausages
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh chicken has no added sodium, unlike processed or marinated versions."
+________________________________________
+74. Which is a low-sodium alternative to salty snacks?
+•	Options:
+A. Fresh fruit slices
+B. Potato chips
+C. Pretzels
+D. Salted nuts
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits like apple slices are naturally low in sodium and make a healthy snack."
+________________________________________
+75. What effect does high sodium have on your kidneys?
+•	Options:
+A. Increases risk of kidney disease
+B. Improves kidney function
+C. Has no effect
+D. Strengthens kidney tissues
+•	Correct Answer: A
+•	Feedback:
+"Correct! High sodium intake can strain the kidneys, increasing the risk of kidney disease over time."
+76. Which fast-food item is likely to have the most sodium?
+•	Options:
+A. Grilled chicken sandwich
+B. French fries
+C. Caesar salad with dressing
+D. Double cheeseburger
+•	Correct Answer: D
+•	Feedback:
+"Correct! Double cheeseburgers often contain high levels of sodium due to the processed cheese, sauces, and patties."
+________________________________________
+77. What does the term “unsalted” mean on a food label?
+•	Options:
+A. The product is sodium-free
+B. No salt was added during processing
+C. The product contains no preservatives
+D. The product is low-sodium
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'Unsalted' means that no additional salt was added during processing, but the product may still contain natural sodium."
+________________________________________
+78. How much sodium is in 100 grams of fresh spinach?
+•	Options:
+A. 20 mg
+B. 50 mg
+C. 80 mg
+D. 100 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh spinach contains about 50 mg of sodium per 100 grams, making it a naturally low-sodium food."
+________________________________________
+79. True or False: All processed foods are high in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! While many processed foods are high in sodium, some options like unsalted nuts or low-sodium canned goods are not."
+________________________________________
+80. Which type of bread is likely to have the lowest sodium?
+•	Options:
+A. Sourdough bread
+B. Whole wheat bread
+C. Low-sodium bread
+D. White bread
+•	Correct Answer: C
+•	Feedback:
+"Correct! Low-sodium bread is specifically formulated to reduce sodium content compared to other types."
+________________________________________
+81. Which mineral helps counteract the effects of sodium?
+•	Options:
+A. Magnesium
+B. Potassium
+C. Calcium
+D. Iron
+•	Correct Answer: B
+•	Feedback:
+"Correct! Potassium helps counteract the effects of sodium by balancing fluid levels in the body."
+________________________________________
+82. True or False: Cheese is always a high-sodium food.
+•	Correct Answer: False
+•	Feedback:
+"Correct! While many cheeses are high in sodium, some options like Swiss cheese and fresh mozzarella are lower in sodium."
+________________________________________
+83. How does sodium affect the body’s water balance?
+•	Options:
+A. It decreases water retention
+B. It increases water retention
+C. It has no effect on water balance
+D. It promotes dehydration
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium causes the body to retain water, which can increase blood pressure and swelling."
+________________________________________
+84. Which sauce is typically highest in sodium?
+•	Options:
+A. Soy sauce
+B. Tomato sauce
+C. Pesto
+D. Vinegar
+•	Correct Answer: A
+•	Feedback:
+"Correct! Soy sauce is one of the saltiest condiments, often containing over 900 mg of sodium per tablespoon."
+________________________________________
+85. What’s the best way to lower sodium in canned soup?
+•	Options:
+A. Add water to dilute it
+B. Add fresh vegetables
+C. Use low-sodium versions
+D. Avoid heating it
+•	Correct Answer: C
+•	Feedback:
+"Correct! Choosing low-sodium versions of canned soup is the easiest way to reduce sodium intake."
+________________________________________
+86. Which snack is naturally sodium-free?
+•	Options:
+A. Unsalted popcorn
+B. Apples
+C. Grapes
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Fresh fruits like apples and grapes, as well as unsalted popcorn, are sodium-free snacks."
+________________________________________
+87. True or False: Most sodium in our diets comes from table salt.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Over 70% of sodium in our diets comes from processed and packaged foods, not table salt."
+________________________________________
+88. How much sodium is in a teaspoon of soy sauce?
+•	Options:
+A. 500 mg
+B. 700 mg
+C. 1,000 mg
+D. 1,200 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! One teaspoon of soy sauce typically contains around 700 mg of sodium."
+________________________________________
+89. Which of these is NOT a high-sodium food?
+•	Options:
+A. Deli meat
+B. Pretzels
+C. Fresh broccoli
+D. Canned soup
+•	Correct Answer: C
+•	Feedback:
+"Correct! Fresh broccoli is naturally low in sodium, unlike deli meats, pretzels, and canned soup."
+________________________________________
+90. What’s the recommended sodium intake for individuals with high blood pressure?
+•	Options:
+A. 2,300 mg
+B. 1,500 mg
+C. 1,800 mg
+D. 2,000 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! The recommended sodium intake for individuals with high blood pressure is 1,500 mg per day."
+________________________________________
+91. Which of these is a low-sodium breakfast option?
+•	Options:
+A. Oatmeal with fresh berries
+B. Sausage and eggs
+C. Bagel with cream cheese
+D. Pancakes with syrup
+•	Correct Answer: A
+•	Feedback:
+"Correct! Oatmeal with fresh berries is naturally low in sodium and packed with nutrients."
+________________________________________
+92. True or False: Eating out regularly makes it harder to control sodium intake.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Restaurant meals often contain high levels of sodium, making it difficult to manage your intake."
+________________________________________
+93. Which seafood option is likely the lowest in sodium?
+•	Options:
+A. Smoked salmon
+B. Fresh shrimp
+C. Grilled tilapia
+D. Canned tuna
+•	Correct Answer: C
+•	Feedback:
+"Correct! Grilled tilapia is naturally low in sodium, while smoked and canned seafood can be high in added salt."
+________________________________________
+94. Which flavouring is a good low-sodium substitute for soy sauce?
+•	Options:
+A. Tamari
+B. Lemon juice
+C. Worcestershire sauce
+D. Vinegar
+•	Correct Answer: B
+•	Feedback:
+"Correct! Lemon juice adds a tangy flavour without adding sodium, unlike soy or Worcestershire sauces."
+________________________________________
+95. What’s the sodium content of 1 slice of processed bread?
+•	Options:
+A. 50 mg
+B. 120 mg
+C. 200 mg
+D. 250 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! Processed bread contains around 120 mg of sodium per slice, depending on the brand."
+________________________________________
+96. How can you identify hidden sodium in foods?
+•	Options:
+A. Read the ingredient list
+B. Look for words like "sodium" or "salt"
+C. Check for preservatives
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Reading labels and identifying ingredients like sodium benzoate or salt helps you find hidden sodium."
+________________________________________
+97. Which vegetable has the highest natural sodium content?
+•	Options:
+A. Celery
+B. Lettuce
+C. Kale
+D. Spinach
+•	Correct Answer: A
+•	Feedback:
+"Correct! Celery has a higher natural sodium content than many other vegetables."
+________________________________________
+98. True or False: Sodium intake recommendations are the same for everyone.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Sodium recommendations vary depending on age, health conditions, and activity levels."
+________________________________________
+99. Which seasoning is sodium-free?
+•	Options:
+A. Paprika
+B. Garlic powder
+C. Cinnamon
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Many spices like paprika, garlic powder, and cinnamon are naturally sodium-free."
+________________________________________
+100. How can you lower sodium in pasta dishes?
+•	Options:
+A. Use unsalted pasta water
+B. Add fresh herbs for flavour
+C. Avoid pre-made sauces
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these techniques helps reduce sodium in pasta dishes without compromising flavour."
+101. Which food has the least sodium per serving?
+•	Options:
+A. Fresh strawberries
+B. Cottage cheese
+C. Canned green beans
+D. Pepperoni
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh strawberries are naturally low in sodium, while processed or preserved foods tend to have higher sodium content."
+________________________________________
+102. True or False: Eating too much sodium can lead to dehydration.
+•	Correct Answer: True
+•	Feedback:
+"Correct! High sodium levels can disrupt your body’s fluid balance, leading to dehydration in some cases."
+________________________________________
+103. What is a common symptom of excessive sodium intake?
+•	Options:
+A. Fatigue
+B. Swelling (edema)
+C. Low blood pressure
+D. Difficulty sleeping
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excess sodium causes water retention, which can lead to swelling in the hands, feet, and face."
+________________________________________
+104. Which of these is NOT a source of hidden sodium?
+•	Options:
+A. Salad dressings
+B. Plain yogurt
+C. Canned vegetables
+D. Sauces
+•	Correct Answer: B
+•	Feedback:
+"Correct! Plain yogurt is typically low in sodium, unlike processed salad dressings, canned vegetables, and sauces."
+________________________________________
+105. Which of these eating habits can help reduce sodium intake?
+•	Options:
+A. Avoid adding salt to food at the table
+B. Use fresh ingredients instead of packaged ones
+C. Choose “low-sodium” or “no-salt-added” versions of products
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These habits can significantly reduce your sodium intake and improve your overall health."
+________________________________________
+106. What percentage of sodium in processed foods is added for taste?
+•	Options:
+A. 10%
+B. 25%
+C. 50%
+D. Over 75%
+•	Correct Answer: D
+•	Feedback:
+"Correct! Over 75% of the sodium in processed foods is added for taste, with the rest used for preservation and texture."
+________________________________________
+107. Which of these is considered a high-sodium meat?
+•	Options:
+A. Roast beef
+B. Grilled chicken
+C. Cured ham
+D. Fresh turkey breast
+•	Correct Answer: C
+•	Feedback:
+"Correct! Cured ham contains high levels of sodium due to the curing and preservation process."
+________________________________________
+108. What is the average sodium content in a slice of deli turkey?
+•	Options:
+A. 100 mg
+B. 300 mg
+C. 500 mg
+D. 700 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! One slice of deli turkey can have around 300 mg of sodium, depending on the brand and preparation."
+________________________________________
+109. True or False: Drinking more water can help counteract high sodium intake.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Drinking water can help flush excess sodium from your system, but reducing sodium intake is still key."
+________________________________________
+110. Which of these is the best way to track your daily sodium intake?
+•	Options:
+A. Using a food diary
+B. Reading Nutrition Facts labels
+C. Measuring portions carefully
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! A combination of tracking, label reading, and portion control is the best way to monitor sodium intake."
+
+Level 2: Practical Knowledge Questions
+1. Which of these is the best way to check the sodium content of packaged food?
+•	Options:
+A. By looking at the price
+B. By tasting the food
+C. By reading the Nutrition Facts label
+D. By checking the ingredient list alone
+•	Correct Answer: C
+•	Feedback:
+"Correct! The Nutrition Facts label provides the most accurate information about sodium content per serving."
+________________________________________
+2. Which cooking technique helps reduce sodium in canned beans?
+•	Options:
+A. Rinse them under water
+B. Boil them again
+C. Add lemon juice
+D. Freeze them overnight
+•	Correct Answer: A
+•	Feedback:
+"Correct! Rinsing canned beans under water can reduce sodium by up to 40%."
+________________________________________
+3. What is the maximum sodium content a food can have to be labelled 'low sodium'?
+•	Options:
+A. 50 mg per serving
+B. 140 mg per serving
+C. 200 mg per serving
+D. 500 mg per serving
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'Low sodium' means a food contains 140 mg of sodium or less per serving."
+________________________________________
+4. Which type of cheese is typically lower in sodium?
+•	Options:
+A. Parmesan
+B. Swiss cheese
+C. Feta
+D. Blue cheese
+•	Correct Answer: B
+•	Feedback:
+"Correct! Swiss cheese is generally lower in sodium compared to heavily processed or aged cheeses."
+________________________________________
+5. Which condiment typically has the highest sodium content?
+•	Options:
+A. Ketchup
+B. Mustard
+C. Soy sauce
+D. Barbecue sauce
+•	Correct Answer: C
+•	Feedback:
+"Correct! Soy sauce contains significant sodium, often exceeding 900 mg per tablespoon."
+________________________________________
+6. What does the term “sodium-free” mean on a food label?
+•	Options:
+A. Less than 5 mg of sodium per serving
+B. Less than 50 mg of sodium per serving
+C. Zero sodium
+D. The food is salt-free
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'Sodium-free' indicates the food contains less than 5 mg of sodium per serving."
+________________________________________
+7. Which bread type is likely to have the least sodium?
+•	Options:
+A. Whole wheat bread
+B. Sourdough bread
+C. Low-sodium bread
+D. White bread
+•	Correct Answer: C
+•	Feedback:
+"Correct! Low-sodium bread is specifically made to contain less sodium than regular varieties."
+________________________________________
+8. What’s the best way to reduce sodium in homemade soup?
+•	Options:
+A. Add fresh herbs for flavour
+B. Use salted broth
+C. Add bouillon cubes
+D. Use soy sauce
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs and spices add flavour without adding sodium to your soup."
+________________________________________
+9. Which snack is naturally low in sodium?
+•	Options:
+A. Salted pretzels
+B. Potato chips
+C. Unsalted nuts
+D. Cheese sticks
+•	Correct Answer: C
+•	Feedback:
+"Correct! Unsalted nuts are a great low-sodium snack option."
+________________________________________
+10. True or False: Pre-packaged marinades often contain high sodium levels.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Pre-packaged marinades are often high in sodium to enhance flavour and preserve the product."
+________________________________________
+11. Which food label claim indicates the lowest sodium content?
+•	Options:
+A. Reduced sodium
+B. No added salt
+C. Sodium-free
+D. Low sodium
+•	Correct Answer: C
+•	Feedback:
+"Correct! 'Sodium-free' foods contain less than 5 mg of sodium per serving, making it the lowest sodium option."
+________________________________________
+12. What’s a good low-sodium substitute for soy sauce?
+•	Options:
+A. Worcestershire sauce
+B. Lemon juice
+C. Teriyaki sauce
+D. Hot sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Lemon juice is a great sodium-free alternative to soy sauce for enhancing flavour."
+________________________________________
+13. Which of these soups is the best low-sodium option?
+•	Options:
+A. Cream of mushroom
+B. Chicken noodle soup
+C. Low-sodium vegetable soup
+D. Clam chowder
+•	Correct Answer: C
+•	Feedback:
+"Correct! Low-sodium vegetable soup is specifically designed to contain less sodium per serving."
+________________________________________
+14. What’s the maximum sodium content recommended for a single meal?
+•	Options:
+A. 300 mg
+B. 800 mg
+C. 1,000 mg
+D. 2,300 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! For a balanced diet, aim for meals with 800 mg of sodium or less."
+________________________________________
+15. Which breakfast option is the lowest in sodium?
+•	Options:
+A. Bagel with cream cheese
+B. Oatmeal with fresh fruit
+C. Sausage and eggs
+D. Pancakes with syrup
+•	Correct Answer: B
+•	Feedback:
+"Correct! Oatmeal with fresh fruit is naturally low in sodium and a healthy breakfast choice."
+________________________________________
+16. What’s the sodium content in a slice of processed deli turkey?
+•	Options:
+A. 100 mg
+B. 300 mg
+C. 500 mg
+D. 700 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! Processed deli meats like turkey often contain around 300 mg of sodium per slice."
+________________________________________
+17. Which of these is a low-sodium seasoning option?
+•	Options:
+A. Garlic powder
+B. Table salt
+C. Bouillon cubes
+D. Soy sauce
+•	Correct Answer: A
+•	Feedback:
+"Correct! Garlic powder and other herbs and spices are sodium-free alternatives for seasoning."
+________________________________________
+18. How can you reduce sodium in a pasta dish?
+•	Options:
+A. Use unsalted cooking water
+B. Avoid pre-made sauces
+C. Add fresh herbs for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these strategies helps significantly reduce sodium in pasta dishes."
+________________________________________
+19. Which of these is NOT a low-sodium snack?
+•	Options:
+A. Fresh fruit
+B. Plain popcorn
+C. Salted crackers
+D. Carrot sticks
+•	Correct Answer: C
+•	Feedback:
+"Correct! Salted crackers are high in sodium, unlike fresh fruits and vegetables."
+________________________________________
+20. Which of these canned foods is likely the lowest in sodium?
+•	Options:
+A. Regular canned beans
+B. Low-sodium canned beans
+C. Canned soup
+D. Canned tomato sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium canned beans are a better choice compared to regular canned goods."
+________________________________________
+21. Which of these meal prep habits reduces sodium intake the most?
+•	Options:
+A. Using fresh ingredients instead of processed ones
+B. Adding salt at the table instead of during cooking
+C. Using salted butter instead of unsalted
+D. Doubling portion sizes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh ingredients naturally contain less sodium than processed ones, making them the best choice for low-sodium meal prep."
+________________________________________
+22. What’s the best low-sodium alternative to regular canned soup?
+•	Options:
+A. Homemade soup with fresh ingredients
+B. Canned soup diluted with water
+C. Instant soup packets
+D. Condensed canned soup
+•	Correct Answer: A
+•	Feedback:
+"Correct! Homemade soup made with fresh ingredients allows you to control the sodium content."
+________________________________________
+23. Which type of snack is typically the lowest in sodium?
+•	Options:
+A. Salted almonds
+B. Fresh fruit slices
+C. Pretzels
+D. Cheese-flavoured crackers
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh fruits are naturally sodium-free, unlike processed snacks."
+________________________________________
+24. What’s the recommended sodium content for a snack to be considered low-sodium?
+•	Options:
+A. 50 mg per serving
+B. 140 mg per serving
+C. 200 mg per serving
+D. 500 mg per serving
+•	Correct Answer: B
+•	Feedback:
+"Correct! Snacks with 140 mg of sodium or less per serving are considered low-sodium."
+________________________________________
+25. Which of these sauces is typically lowest in sodium?
+•	Options:
+A. Pesto
+B. Barbecue sauce
+C. Tomato sauce
+D. Soy sauce
+•	Correct Answer: A
+•	Feedback:
+"Correct! Pesto is often lower in sodium compared to barbecue sauce, tomato sauce, or soy sauce, but always check the label."
+________________________________________
+26. Which of these steps helps reduce sodium in canned vegetables?
+•	Options:
+A. Adding salt during cooking
+B. Rinsing the vegetables under water
+C. Blending the vegetables into a puree
+D. Cooking the vegetables for a longer time
+•	Correct Answer: B
+•	Feedback:
+"Correct! Rinsing canned vegetables under water can remove up to 40% of the sodium."
+________________________________________
+27. True or False: Low-sodium versions of processed foods taste identical to regular versions.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Low-sodium versions may taste slightly different due to reduced salt, but they are healthier alternatives."
+________________________________________
+28. Which method reduces sodium when dining out?
+•	Options:
+A. Requesting sauces and dressings on the side
+B. Adding extra salt at the table
+C. Ordering larger portion sizes
+D. Avoiding fresh vegetables
+•	Correct Answer: A
+•	Feedback:
+"Correct! Asking for sauces on the side lets you control how much sodium you consume."
+________________________________________
+29. What is a good low-sodium substitute for salted butter?
+•	Options:
+A. Unsalted butter
+B. Margarine with salt
+C. Ghee
+D. Shortening
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted butter contains less sodium than salted varieties, making it a healthier choice."
+________________________________________
+30. Which type of fish is typically lowest in sodium?
+•	Options:
+A. Smoked salmon
+B. Fresh tilapia
+C. Canned tuna in brine
+D. Marinated mackerel
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh tilapia is naturally low in sodium, unlike smoked or canned fish."
+________________________________________
+31. True or False: All pre-packaged frozen meals are high in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! While many frozen meals are high in sodium, there are low-sodium options available. Always read the label."
+________________________________________
+32. Which of these foods is naturally sodium-free?
+•	Options:
+A. Whole grain rice
+B. Fresh cucumbers
+C. Plain yogurt
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These foods are naturally sodium-free and make great low-sodium choices."
+________________________________________
+33. What is the best way to reduce sodium in a salad?
+•	Options:
+A. Use a low-sodium dressing
+B. Avoid salty toppings like croutons
+C. Add fresh herbs for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these strategies ensures your salad stays low in sodium."
+________________________________________
+34. Which of these bread types is often the highest in sodium?
+•	Options:
+A. Bagels
+B. Low-sodium bread
+C. White bread
+D. Whole wheat bread
+•	Correct Answer: A
+•	Feedback:
+"Correct! Bagels typically contain more sodium per serving than other bread types."
+________________________________________
+35. True or False: Using herbs and spices can completely replace salt in recipes.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Herbs and spices like garlic, basil, and cumin can add flavour without any sodium."
+________________________________________
+36. Which restaurant meal is likely to have the most sodium?
+•	Options:
+A. Grilled chicken salad
+B. Fried chicken sandwich with fries
+C. Vegetable stir-fry with low-sodium sauce
+D. Plain baked potato
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fried chicken sandwiches with fries are often loaded with sodium due to breading, sauces, and frying methods."
+________________________________________
+37. What’s a simple way to reduce sodium in a sandwich?
+•	Options:
+A. Use unsalted bread
+B. Skip processed meats like ham
+C. Add fresh vegetables for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these steps helps lower sodium while keeping your sandwich tasty."
+________________________________________
+38. Which cooking ingredient is naturally low in sodium?
+•	Options:
+A. Unsalted butter
+B. Table salt
+C. Bouillon cubes
+D. Regular soy sauce
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted butter is a low-sodium choice compared to salted alternatives or bouillon cubes."
+________________________________________
+39. How does eating smaller portions help reduce sodium intake?
+•	Options:
+A. It reduces the overall sodium you consume
+B. It eliminates hidden sodium
+C. It changes the sodium content per serving
+D. It has no effect
+•	Correct Answer: A
+•	Feedback:
+"Correct! Smaller portions naturally reduce the total amount of sodium you eat."
+________________________________________
+40. Which salad topping adds the most sodium?
+•	Options:
+A. Fresh fruit slices
+B. Croutons
+C. Grilled chicken
+D. Fresh cucumbers
+•	Correct Answer: B
+•	Feedback:
+"Correct! Croutons are typically high in sodium, unlike fresh toppings like fruit or vegetables."
+________________________________________
+41. What is a healthier alternative to salt for cooking pasta?
+•	Options:
+A. Olive oil
+B. Lemon zest
+C. Fresh garlic
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Olive oil, lemon zest, and fresh garlic can all enhance flavour without adding sodium."
+________________________________________
+42. True or False: Pre-packaged seasoning mixes are typically high in sodium.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Many pre-packaged seasoning mixes contain added salt, so it's better to make your own blends."
+________________________________________
+43. What’s a good way to cut sodium in pasta sauces?
+•	Options:
+A. Choose low-sodium versions
+B. Add fresh tomatoes
+C. Use herbs and spices for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these strategies makes your pasta sauce healthier and lower in sodium."
+________________________________________
+44. Which meat option typically has the least sodium?
+•	Options:
+A. Grilled chicken breast
+B. Smoked salmon
+C. Canned corned beef
+D. Deli ham
+•	Correct Answer: A
+•	Feedback:
+"Correct! Grilled chicken breast is naturally low in sodium, unlike processed meats."
+________________________________________
+45. True or False: Frozen vegetables are always high in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Plain frozen vegetables are naturally low in sodium, but avoid versions with added sauces or seasonings."
+________________________________________
+46. What’s the best way to make low-sodium homemade bread?
+•	Options:
+A. Reduce the amount of salt in the recipe
+B. Use baking powder instead of salt
+C. Add sugar to the recipe
+D. Skip using flour
+•	Correct Answer: A
+•	Feedback:
+"Correct! Reducing or eliminating added salt in bread recipes lowers sodium content."
+________________________________________
+47. Which type of snack has the most hidden sodium?
+•	Options:
+A. Fresh apples
+B. Salted popcorn
+C. Yogurt
+D. Granola bars
+•	Correct Answer: B
+•	Feedback:
+"Correct! Salted popcorn can have a significant amount of hidden sodium."
+________________________________________
+48. Which cooking technique adds the least sodium?
+•	Options:
+A. Steaming
+B. Deep-frying
+C. Grilling with marinade
+D. Roasting with salt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Steaming preserves the food’s natural flavours without adding any sodium."
+________________________________________
+49. Which of these drinks is naturally sodium-free?
+•	Options:
+A. Bottled water
+B. Soda
+C. Sports drinks
+D. Canned juice
+•	Correct Answer: A
+•	Feedback:
+"Correct! Bottled water is naturally sodium-free, unlike soda or sports drinks."
+________________________________________
+50. What’s a practical way to reduce sodium in a stir-fry?
+•	Options:
+A. Use low-sodium soy sauce
+B. Add fresh herbs for flavour
+C. Avoid pre-marinated meat
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These steps ensure your stir-fry is tasty without being overloaded with sodium."
+51. Which of these is a low-sodium protein option?
+•	Options:
+A. Fresh fish
+B. Deli meats
+C. Canned tuna in brine
+D. Sausages
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish is naturally low in sodium, unlike deli meats, canned foods, or sausages."
+________________________________________
+52. True or False: You should always add salt when cooking rice or pasta.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Salt is not necessary when cooking rice or pasta, and skipping it can help reduce sodium intake."
+________________________________________
+53. What is the recommended sodium content for a full meal to keep it balanced?
+•	Options:
+A. 1,000 mg or less
+B. 2,000 mg or less
+C. 500 mg or less
+D. 800 mg or less
+•	Correct Answer: D
+•	Feedback:
+"Correct! A balanced meal should ideally have 800 mg of sodium or less."
+________________________________________
+54. Which restaurant meal is typically the highest in sodium?
+•	Options:
+A. Grilled fish with vegetables
+B. Caesar salad with croutons and dressing
+C. Fried chicken combo meal
+D. Plain baked potato
+•	Correct Answer: C
+•	Feedback:
+"Correct! Fried chicken combo meals often contain high amounts of sodium due to breading, sauces, and fries."
+________________________________________
+55. What’s the easiest way to make a sandwich low in sodium?
+•	Options:
+A. Skip processed meats
+B. Use fresh vegetables as toppings
+C. Choose low-sodium bread
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Skipping processed meats, adding fresh vegetables, and using low-sodium bread are all great strategies."
+________________________________________
+56. What’s a practical low-sodium replacement for pre-made salad dressings?
+•	Options:
+A. Olive oil and lemon juice
+B. Vinegar and honey
+C. Yogurt and herbs
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These combinations are tasty, easy to make, and significantly lower in sodium compared to store-bought dressings."
+________________________________________
+57. Which of these chips is likely to contain the least sodium?
+•	Options:
+A. Salted potato chips
+B. Unsalted potato chips
+C. Cheese-flavoured chips
+D. Barbecue-flavoured chips
+•	Correct Answer: B
+•	Feedback:
+"Correct! Unsalted potato chips are naturally lower in sodium than flavoured or salted versions."
+________________________________________
+58. Which cooking habit helps reduce sodium intake?
+•	Options:
+A. Using less salt in recipes
+B. Tasting food before adding salt
+C. Substituting salt with herbs and spices
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These habits help reduce sodium without compromising flavour."
+________________________________________
+59. Which type of snack has the least sodium?
+•	Options:
+A. Unsalted popcorn
+B. Salted crackers
+C. Pretzels
+D. Cheese sticks
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted popcorn is naturally low in sodium and makes a healthy snack."
+________________________________________
+60. How does marinating meat in salty sauces affect sodium content?
+•	Options:
+A. It increases sodium content
+B. It makes sodium content negligible
+C. It reduces sodium levels
+D. It adds natural sodium only
+•	Correct Answer: A
+•	Feedback:
+"Correct! Marinating meat in salty sauces significantly increases its sodium content."
+________________________________________
+61. Which of these dairy products typically has the lowest sodium?
+•	Options:
+A. Cottage cheese
+B. Cream cheese
+C. Swiss cheese
+D. Parmesan cheese
+•	Correct Answer: C
+•	Feedback:
+"Correct! Swiss cheese is generally lower in sodium compared to other types of cheese."
+________________________________________
+62. Which food preparation method is best for reducing sodium?
+•	Options:
+A. Frying with salted batter
+B. Grilling without seasoning
+C. Steaming with fresh ingredients
+D. Roasting with soy sauce
+•	Correct Answer: C
+•	Feedback:
+"Correct! Steaming fresh ingredients keeps sodium content low while preserving nutrients."
+________________________________________
+63. Which food label term indicates the lowest sodium content?
+•	Options:
+A. No added salt
+B. Reduced sodium
+C. Low sodium
+D. Sodium-free
+•	Correct Answer: D
+•	Feedback:
+"Correct! 'Sodium-free' means the product contains less than 5 mg of sodium per serving."
+________________________________________
+64. What’s the sodium content of 1 teaspoon of table salt?
+•	Options:
+A. 2,300 mg
+B. 1,500 mg
+C. 900 mg
+D. 3,000 mg
+•	Correct Answer: A
+•	Feedback:
+"Correct! One teaspoon of table salt contains about 2,300 mg of sodium, the recommended daily limit for adults."
+________________________________________
+65. Which of these is a low-sodium snack option?
+•	Options:
+A. Fresh apple slices
+B. Cheese-flavoured crackers
+C. Salted peanuts
+D. Pretzels
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits like apples are naturally low in sodium and make excellent snack options."
+________________________________________
+66. What’s the easiest way to reduce sodium in a stir-fry?
+•	Options:
+A. Use low-sodium soy sauce
+B. Avoid salty pre-marinated meats
+C. Add fresh herbs and spices for flavour
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These strategies ensure your stir-fry stays healthy and low in sodium."
+________________________________________
+67. What is the sodium content for a food to be labelled as "reduced sodium"?
+•	Options:
+A. At least 25% less sodium than the regular version
+B. Less than 140 mg per serving
+C. Less than 200 mg per serving
+D. No sodium added during preparation
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'Reduced sodium' means the food has at least 25% less sodium than the regular version."
+________________________________________
+68. Which of these drinks is typically sodium-free?
+•	Options:
+A. Bottled water
+B. Diet soda
+C. Sports drinks
+D. Canned tomato juice
+•	Correct Answer: A
+•	Feedback:
+"Correct! Bottled water is naturally sodium-free, unlike sodas, sports drinks, and canned juices."
+________________________________________
+69. Which of these condiments is lowest in sodium?
+•	Options:
+A. Vinegar
+B. Ketchup
+C. Soy sauce
+D. Barbecue sauce
+•	Correct Answer: A
+•	Feedback:
+"Correct! Vinegar contains very little sodium and is a great flavour enhancer."
+________________________________________
+70. True or False: You can rely on taste alone to detect high-sodium foods.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Many high-sodium foods, like bread and cereal, don’t taste salty but still contain significant sodium."
+________________________________________
+71. What’s the sodium limit for a food to be considered “low sodium”?
+•	Options:
+A. 200 mg per serving
+B. 140 mg per serving
+C. 300 mg per serving
+D. 100 mg per serving
+•	Correct Answer: B
+•	Feedback:
+"Correct! Foods with 140 mg of sodium or less per serving are labelled as 'low sodium'."
+________________________________________
+72. What’s the best way to identify hidden sodium in packaged food?
+•	Options:
+A. Look for words like “sodium” or “salt” in the ingredient list
+B. Taste the food
+C. Check the calorie count
+D. Look at the price
+•	Correct Answer: A
+•	Feedback:
+"Correct! Identifying words like 'sodium chloride' or 'monosodium glutamate' on the ingredient list can help you spot hidden sodium."
+________________________________________
+73. Which breakfast cereal is likely to have the least sodium?
+•	Options:
+A. Oatmeal with no added flavouring
+B. Sugary granola
+C. Frosted flakes
+D. Corn flakes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Plain oatmeal is naturally low in sodium and makes a healthy breakfast option."
+________________________________________
+74. Which cooking oil is sodium-free?
+•	Options:
+A. Olive oil
+B. Butter
+C. Margarine with salt
+D. Coconut oil
+•	Correct Answer: A
+•	Feedback:
+"Correct! Olive oil is naturally sodium-free and a healthy choice for cooking and dressing."
+________________________________________
+75. Which of these is a hidden source of sodium?
+•	Options:
+A. Salad dressings
+B. Canned vegetables
+C. Processed bread
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Many processed and packaged foods, including salad dressings and bread, contain hidden sodium."
+76. Which of these is a good low-sodium alternative to broth cubes?
+•	Options:
+A. Water with fresh herbs
+B. Regular bouillon cubes
+C. Soy sauce
+D. Tomato paste
+•	Correct Answer: A
+•	Feedback:
+"Correct! Water with fresh herbs like parsley or thyme can add flavour without the high sodium content of broth cubes."
+________________________________________
+77. How can you reduce sodium in a stir-fry?
+•	Options:
+A. Use low-sodium soy sauce
+B. Avoid pre-marinated meats
+C. Add fresh vegetables instead of canned ones
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Using low-sodium soy sauce, avoiding salty marinades, and adding fresh vegetables can significantly lower sodium content."
+________________________________________
+78. Which of these is the healthiest low-sodium option for a snack?
+•	Options:
+A. Fresh apple slices
+B. Salted nuts
+C. Pretzels
+D. Cheese sticks
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh apple slices are naturally sodium-free and make a healthy, satisfying snack."
+________________________________________
+79. Which cooking method helps preserve a dish's natural flavour without adding sodium?
+•	Options:
+A. Steaming
+B. Deep-frying
+C. Roasting with salt
+D. Cooking with bouillon cubes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Steaming preserves the food’s natural flavour without the need for added salt."
+________________________________________
+80. Which restaurant menu option is likely to be highest in sodium?
+•	Options:
+A. Plain baked potato
+B. Grilled chicken salad with vinaigrette
+C. Breaded chicken tenders with fries
+D. Steamed broccoli with lemon
+•	Correct Answer: C
+•	Feedback:
+"Correct! Breaded chicken tenders and fries are often heavily salted and can have high sodium levels."
+________________________________________
+81. How can you reduce sodium when ordering pizza?
+•	Options:
+A. Choose thin crust over regular crust
+B. Opt for vegetable toppings instead of processed meats
+C. Ask for light cheese
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Choosing thin crust, vegetable toppings, and light cheese helps lower the sodium content of pizza."
+________________________________________
+82. True or False: Frozen vegetables with no added sauces are a low-sodium option.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Plain frozen vegetables are naturally low in sodium, as long as no sauces or seasonings are added."
+________________________________________
+83. Which label claim indicates the least sodium?
+•	Options:
+A. Reduced sodium
+B. No added salt
+C. Sodium-free
+D. Low sodium
+•	Correct Answer: C
+•	Feedback:
+"Correct! Sodium-free foods contain less than 5 mg of sodium per serving, making them the lowest sodium option."
+________________________________________
+84. Which of these is a low-sodium condiment?
+•	Options:
+A. Vinegar
+B. Soy sauce
+C. Barbecue sauce
+D. Ketchup
+•	Correct Answer: A
+•	Feedback:
+"Correct! Vinegar is naturally low in sodium and a great alternative to high-sodium condiments."
+________________________________________
+85. What’s a good way to make a sandwich healthier and lower in sodium?
+•	Options:
+A. Use unsalted bread
+B. Add fresh vegetables like lettuce or cucumber
+C. Skip processed meats like ham or salami
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Combining these steps creates a healthier, lower-sodium sandwich."
+________________________________________
+86. What’s the sodium content of 1 cup of regular canned soup?
+•	Options:
+A. About 100 mg
+B. About 500 mg
+C. About 800 mg
+D. About 1,200 mg
+•	Correct Answer: C
+•	Feedback:
+"Correct! Regular canned soup often contains around 800 mg of sodium per cup, making it a high-sodium option."
+________________________________________
+87. True or False: Low-sodium bread tastes identical to regular bread.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Low-sodium bread may taste slightly different due to reduced salt, but it is a healthier choice."
+________________________________________
+88. What’s the best way to reduce sodium in a home-cooked stew?
+•	Options:
+A. Use fresh herbs instead of salt
+B. Skip bouillon cubes
+C. Add fresh vegetables instead of canned
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! These steps significantly reduce sodium while enhancing the flavour of your stew."
+________________________________________
+89. Which seasoning is naturally sodium-free?
+•	Options:
+A. Garlic powder
+B. Onion salt
+C. Table salt
+D. Bouillon granules
+•	Correct Answer: A
+•	Feedback:
+"Correct! Garlic powder is a sodium-free seasoning, unlike onion salt or bouillon granules."
+________________________________________
+90. How does portion control help reduce sodium intake?
+•	Options:
+A. Smaller portions mean less sodium consumed
+B. It reduces sodium per gram of food
+C. It eliminates sodium entirely
+D. It doesn’t affect sodium consumption
+•	Correct Answer: A
+•	Feedback:
+"Correct! Eating smaller portions naturally reduces the total amount of sodium you consume."
+________________________________________
+91. Which restaurant order is likely the lowest in sodium?
+•	Options:
+A. Grilled chicken with steamed vegetables
+B. Caesar salad with dressing
+C. Fried fish with tartar sauce
+D. Cheese quesadilla with salsa
+•	Correct Answer: A
+•	Feedback:
+"Correct! Grilled chicken with steamed vegetables is a low-sodium choice compared to options with sauces or fried components."
+________________________________________
+92. Which food preparation method reduces sodium the most?
+•	Options:
+A. Rinsing canned foods before use
+B. Boiling vegetables with salt
+C. Frying with salted batter
+D. Baking with processed ingredients
+•	Correct Answer: A
+•	Feedback:
+"Correct! Rinsing canned foods under water can remove up to 40% of their sodium content."
+________________________________________
+93. What’s a good sodium-free alternative to cheese in salads?
+•	Options:
+A. Avocado slices
+B. Croutons
+C. Bacon bits
+D. Deli turkey slices
+•	Correct Answer: A
+•	Feedback:
+"Correct! Avocado is a creamy, sodium-free alternative to cheese in salads."
+________________________________________
+94. Which of these foods is naturally sodium-free?
+•	Options:
+A. Fresh fruit
+B. Canned soup
+C. Processed bread
+D. Pickles
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits are naturally sodium-free and a great choice for a healthy snack."
+________________________________________
+95. What’s the maximum recommended daily sodium intake for most adults?
+•	Options:
+A. 1,500 mg
+B. 2,300 mg
+C. 3,000 mg
+D. 4,000 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! The recommended daily limit for most adults is 2,300 mg, or about 1 teaspoon of salt."
+________________________________________
+96. Which of these foods is most likely to contain hidden sodium?
+•	Options:
+A. Bread
+B. Fresh apples
+C. Boiled potatoes
+D. Plain yogurt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Bread often contains hidden sodium, even if it doesn’t taste salty."
+________________________________________
+97. Which of these seasonings is lowest in sodium?
+•	Options:
+A. Dried basil
+B. Soy sauce
+C. Garlic salt
+D. Onion salt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Dried basil and other herbs are naturally sodium-free, unlike salty seasonings."
+________________________________________
+98. Which of these condiments is typically highest in sodium?
+•	Options:
+A. Soy sauce
+B. Mustard
+C. Vinegar
+D. Pesto
+•	Correct Answer: A
+•	Feedback:
+"Correct! Soy sauce is one of the saltiest condiments, with over 900 mg of sodium per tablespoon."
+________________________________________
+99. What’s a practical way to reduce sodium in canned tomatoes?
+•	Options:
+A. Rinse them under water
+B. Choose no-salt-added versions
+C. Cook them for longer
+D. Mix with salted broth
+•	Correct Answer: B
+•	Feedback:
+"Correct! Choosing no-salt-added canned tomatoes is an effective way to reduce sodium."
+________________________________________
+100. True or False: Sodium content is always proportional to calorie content in foods.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Sodium content is not related to calorie content; even low-calorie foods can be high in sodium."
+101. Which of these is the best way to flavour food without adding sodium?
+•	Options:
+A. Add fresh herbs and spices
+B. Use garlic-infused oil
+C. Add citrus juice or zest
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Fresh herbs, garlic-infused oils, and citrus are all excellent sodium-free ways to enhance flavour."
+________________________________________
+102. Which of these fast-food items is likely to have the least sodium?
+•	Options:
+A. Grilled chicken sandwich
+B. French fries
+C. Side salad with dressing on the side
+D. Cheeseburger
+•	Correct Answer: C
+•	Feedback:
+"Correct! A side salad with dressing on the side is the lowest sodium option, as you control the amount of dressing used."
+________________________________________
+103. How does boiling reduce sodium in some foods?
+•	Options:
+A. It dissolves sodium into the cooking water
+B. It makes sodium inactive
+C. It replaces sodium with other minerals
+D. It does not affect sodium content
+•	Correct Answer: A
+•	Feedback:
+"Correct! Boiling can help remove some sodium by dissolving it into the water, especially in foods like ham or canned beans."
+________________________________________
+104. Which of these is a high-sodium snack?
+•	Options:
+A. Fresh vegetable sticks
+B. Unsalted almonds
+C. Salted peanuts
+D. Fresh fruit slices
+•	Correct Answer: C
+•	Feedback:
+"Correct! Salted peanuts are high in sodium, unlike unsalted nuts, fresh fruits, or vegetables."
+________________________________________
+105. Which of these soups is typically the highest in sodium?
+•	Options:
+A. Chicken noodle soup
+B. Cream of mushroom soup
+C. Vegetable soup with no added salt
+D. Canned tomato soup
+•	Correct Answer: D
+•	Feedback:
+"Correct! Canned tomato soup is often one of the highest-sodium soups due to added salt and preservatives."
+________________________________________
+106. What’s the easiest way to reduce sodium in a homemade casserole?
+•	Options:
+A. Use fresh herbs instead of salt
+B. Avoid processed sauces and broths
+C. Use low-sodium cheese
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Fresh herbs, low-sodium cheese, and avoiding processed ingredients can significantly reduce sodium."
+________________________________________
+107. What’s the sodium content of 1 tablespoon of regular soy sauce?
+•	Options:
+A. 200 mg
+B. 500 mg
+C. 900 mg
+D. 1,200 mg
+•	Correct Answer: C
+•	Feedback:
+"Correct! One tablespoon of soy sauce typically contains around 900 mg of sodium, making it a high-sodium condiment."
+________________________________________
+108. Which of these frozen meals is likely to have the least sodium?
+•	Options:
+A. Low-sodium frozen vegetable stir-fry
+B. Frozen pizza
+C. Breaded chicken tenders
+D. Frozen lasagna
+•	Correct Answer: A
+•	Feedback:
+"Correct! Frozen meals labelled 'low sodium' are designed to contain significantly less sodium than regular options."
+________________________________________
+109. True or False: Pre-packaged seasoning blends are always low in sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Many pre-packaged seasoning blends contain added salt, so it’s important to read the label."
+________________________________________
+110. Which of these actions will NOT reduce sodium in a dish?
+•	Options:
+A. Skipping table salt
+B. Using fresh ingredients
+C. Adding extra soy sauce
+D. Replacing processed foods with homemade alternatives
+•	Correct Answer: C
+•	Feedback:
+"Correct! Adding extra soy sauce increases sodium, while the other actions help reduce it."
+
+
+Level 3: Advanced Knowledge Questions 
+________________________________________
+1. How does high sodium intake affect blood pressure?
+•	Options:
+A. It decreases blood pressure
+B. It has no effect on blood pressure
+C. It increases blood pressure by retaining water in the bloodstream
+D. It strengthens blood vessels, reducing blood pressure
+•	Correct Answer: C
+•	Feedback:
+"Correct! Excess sodium causes water retention, increasing blood volume and raising blood pressure."
+________________________________________
+2. Which organ is most responsible for regulating sodium levels in the body?
+•	Options:
+A. Liver
+B. Kidneys
+C. Heart
+D. Pancreas
+•	Correct Answer: B
+•	Feedback:
+"Correct! The kidneys regulate sodium levels by filtering it out of the bloodstream and into urine when levels are too high."
+________________________________________
+3. How does a high-sodium diet increase the risk of heart disease?
+•	Options:
+A. By thickening the blood
+B. By raising blood pressure, which stresses the heart and arteries
+C. By decreasing cholesterol levels
+D. By weakening the immune system
+•	Correct Answer: B
+•	Feedback:
+"Correct! High blood pressure caused by excess sodium increases the strain on the heart and damages blood vessels, raising the risk of heart disease."
+________________________________________
+4. Which hormone plays a key role in sodium retention?
+•	Options:
+A. Insulin
+B. Aldosterone
+C. Thyroxine
+D. Cortisol
+•	Correct Answer: B
+•	Feedback:
+"Correct! Aldosterone, a hormone produced by the adrenal glands, regulates sodium retention and helps maintain blood pressure."
+________________________________________
+5. What role does sodium play in nerve function?
+•	Options:
+A. It provides energy for nerve cells
+B. It stabilises nerve cell membranes
+C. It generates electrical impulses for nerve signalling
+D. It destroys harmful nerve cells
+•	Correct Answer: C
+•	Feedback:
+"Correct! Sodium helps generate electrical impulses that allow nerve cells to communicate."
+________________________________________
+6. How does sodium affect fluid balance in the body?
+•	Options:
+A. It reduces water retention
+B. It attracts and holds water in the bloodstream and tissues
+C. It removes excess water from cells
+D. It prevents dehydration by storing water in bones
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium helps maintain fluid balance by attracting water into the bloodstream and tissues."
+________________________________________
+7. What is a common symptom of hyponatremia (low sodium levels)?
+•	Options:
+A. High blood pressure
+B. Dizziness and confusion
+C. Rapid weight gain
+D. Increased thirst
+•	Correct Answer: B
+•	Feedback:
+"Correct! Hyponatremia can cause symptoms like dizziness, confusion, and muscle cramps due to disrupted nerve and muscle function."
+________________________________________
+8. Which population group is most sensitive to the effects of high sodium intake?
+•	Options:
+A. Children under 5
+B. Adults with diabetes
+C. People with hypertension
+D. Athletes
+•	Correct Answer: C
+•	Feedback:
+"Correct! Individuals with hypertension are particularly sensitive to the effects of sodium on blood pressure."
+________________________________________
+9. How does sodium contribute to bone health issues like osteoporosis?
+•	Options:
+A. By weakening bone structure
+B. By causing calcium to leach out of bones and into urine
+C. By increasing the body’s demand for vitamin D
+D. By lowering collagen production
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium intake causes calcium loss in urine, which can weaken bones over time."
+________________________________________
+10. What is the role of sodium in muscle contraction?
+•	Options:
+A. It acts as an energy source for muscles
+B. It triggers the release of calcium needed for contraction
+C. It repairs damaged muscle fibres
+D. It prevents cramping by absorbing potassium
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium helps trigger calcium release, which is necessary for muscle contraction."
+________________________________________
+11. True or False: The body can adapt to high sodium intake without long-term effects.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Chronic high sodium intake can lead to long-term health issues like hypertension, kidney damage, and heart disease."
+________________________________________
+12. Which electrolyte works alongside sodium to maintain proper fluid balance?
+•	Options:
+A. Calcium
+B. Magnesium
+C. Potassium
+D. Chloride
+•	Correct Answer: C
+•	Feedback:
+"Correct! Potassium balances sodium’s effects by helping regulate fluid levels and blood pressure."
+________________________________________
+13. What happens to excess sodium in the body?
+•	Options:
+A. It is stored in muscles
+B. It is excreted by the kidneys
+C. It is converted into potassium
+D. It is absorbed by bones
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excess sodium is filtered out by the kidneys and excreted in urine."
+________________________________________
+14. What dietary pattern is recommended to reduce sodium intake and control blood pressure?
+•	Options:
+A. Ketogenic diet
+B. DASH diet (Dietary Approaches to Stop Hypertension)
+C. High-protein diet
+D. Low-fat diet
+•	Correct Answer: B
+•	Feedback:
+"Correct! The DASH diet focuses on reducing sodium while increasing intake of fruits, vegetables, and whole grains to manage blood pressure."
+________________________________________
+15. True or False: Processed foods contribute more sodium to the average diet than table salt.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Processed foods account for over 70% of sodium intake, while table salt contributes less than 10%."
+________________________________________
+16. What happens to blood pressure when sodium levels are reduced?
+•	Options:
+A. It increases slightly
+B. It stabilises and lowers over time
+C. It fluctuates more frequently
+D. It becomes dangerously low
+•	Correct Answer: B
+•	Feedback:
+"Correct! Reducing sodium intake helps lower and stabilise blood pressure, reducing the risk of heart disease."
+________________________________________
+17. Which of these conditions is NOT directly linked to high sodium intake?
+•	Options:
+A. Hypertension
+B. Stroke
+C. Osteoporosis
+D. Type 1 diabetes
+•	Correct Answer: D
+•	Feedback:
+"Correct! Type 1 diabetes is not caused by sodium intake, unlike conditions like hypertension, stroke, and osteoporosis."
+________________________________________
+18. What is the effect of sodium on water retention?
+•	Options:
+A. Sodium decreases water retention
+B. Sodium attracts water, causing increased retention
+C. Sodium expels water from the body
+D. Sodium has no effect on water retention
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium attracts water, leading to increased retention in tissues and blood vessels."
+________________________________________
+19. True or False: Reducing sodium intake can lower the risk of kidney stones.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Lowering sodium intake reduces calcium excretion in urine, decreasing the likelihood of kidney stones."
+________________________________________
+20. How does sodium impact blood vessel function?
+•	Options:
+A. It strengthens blood vessels
+B. It narrows blood vessels, increasing blood pressure
+C. It dilates blood vessels, reducing pressure
+D. It has no impact on blood vessels
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium can narrow blood vessels, leading to increased resistance and higher blood pressure."
+________________________________________
+21. What is the primary way athletes lose sodium?
+•	Options:
+A. Through urine
+B. Through sweat during exercise
+C. Through breathing
+D. Through muscle contractions
+•	Correct Answer: B
+•	Feedback:
+"Correct! Athletes lose significant sodium through sweat during intense physical activity."
+________________________________________
+22. Which condition is a potential result of long-term sodium deficiency?
+•	Options:
+A. Hypertension
+B. Hyponatremia
+C. Kidney stones
+D. Hypercholesterolemia
+•	Correct Answer: B
+•	Feedback:
+"Correct! Long-term sodium deficiency can cause hyponatremia, characterised by low blood sodium levels."
+________________________________________
+23. What is the primary reason older adults are more sensitive to high sodium intake?
+•	Options:
+A. They sweat less
+B. Their kidneys become less efficient at excreting sodium
+C. They consume less water
+D. They produce less aldosterone
+•	Correct Answer: B
+•	Feedback:
+"Correct! Aging reduces kidney efficiency, making it harder to excrete excess sodium."
+________________________________________
+24. How does sodium affect heart function?
+•	Options:
+A. It slows the heart rate
+B. It causes fluid retention, increasing the workload on the heart
+C. It strengthens the heart muscle
+D. It prevents blood clotting
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium causes fluid retention, which increases blood volume and the heart’s workload."
+________________________________________
+25. Which food group is naturally lowest in sodium?
+•	Options:
+A. Fruits and vegetables
+B. Grains
+C. Dairy products
+D. Meats
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits and vegetables are naturally low in sodium, making them ideal for a low-sodium diet."
+26. What is the role of sodium in maintaining blood pH levels?
+•	Options:
+A. It neutralises acidic compounds
+B. It acts as a buffer to maintain pH balance
+C. It increases blood acidity
+D. It has no role in blood pH regulation
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium acts as part of a buffer system to maintain the body’s pH balance within a healthy range."
+________________________________________
+27. What happens when sodium intake is drastically reduced?
+•	Options:
+A. Blood pressure immediately decreases
+B. The body produces more aldosterone to retain sodium
+C. Sodium stores are depleted within hours
+D. It has no effect on the body
+•	Correct Answer: B
+•	Feedback:
+"Correct! When sodium intake is reduced, the body compensates by producing aldosterone to retain sodium."
+________________________________________
+28. What does the term "salt-sensitive" mean in relation to blood pressure?
+•	Options:
+A. Sodium intake does not affect blood pressure
+B. Sodium intake has a significant impact on blood pressure
+C. Salt-sensitive individuals cannot retain sodium
+D. Salt-sensitive individuals are immune to hypertension
+•	Correct Answer: B
+•	Feedback:
+"Correct! Salt-sensitive individuals experience greater blood pressure changes in response to sodium intake."
+________________________________________
+29. What is a common symptom of hypernatremia (high sodium levels)?
+•	Options:
+A. Nausea and vomiting
+B. Muscle weakness
+C. Thirst and dehydration
+D. Low blood pressure
+•	Correct Answer: C
+•	Feedback:
+"Correct! Hypernatremia often causes thirst and dehydration as the body tries to balance sodium levels."
+________________________________________
+30. Which condition can result from excessive sodium loss due to sweating?
+•	Options:
+A. Hypertension
+B. Hyponatremia
+C. Kidney stones
+D. High cholesterol
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excessive sodium loss can lead to hyponatremia, causing symptoms like fatigue, confusion, and muscle cramps."
+________________________________________
+31. True or False: Sodium is the only electrolyte that affects fluid balance.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Other electrolytes like potassium, calcium, and magnesium also play critical roles in fluid balance."
+________________________________________
+32. How does the DASH diet help reduce blood pressure?
+•	Options:
+A. By reducing sodium intake and increasing potassium, calcium, and magnesium
+B. By eliminating carbohydrates from the diet
+C. By increasing fat intake to stabilise blood sugar
+D. By promoting only high-protein foods
+•	Correct Answer: A
+•	Feedback:
+"Correct! The DASH diet focuses on reducing sodium while increasing potassium, calcium, and magnesium to lower blood pressure."
+________________________________________
+33. Which type of salt contains the least sodium per teaspoon?
+•	Options:
+A. Sea salt
+B. Table salt
+C. Kosher salt
+D. Himalayan pink salt
+•	Correct Answer: C
+•	Feedback:
+"Correct! Kosher salt contains less sodium by volume because of its larger crystal size, but all salts have the same sodium by weight."
+________________________________________
+34. What mechanism drives sodium absorption in the intestines?
+•	Options:
+A. Osmosis
+B. Active transport involving sodium-potassium pumps
+C. Passive diffusion
+D. Endocytosis
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium is absorbed through active transport, which uses sodium-potassium pumps to maintain balance in cells."
+________________________________________
+35. What is the effect of high sodium levels on kidney function?
+•	Options:
+A. It improves filtration efficiency
+B. It damages the glomeruli over time
+C. It has no effect on kidney function
+D. It increases urine output to eliminate sodium
+•	Correct Answer: B
+•	Feedback:
+"Correct! Chronic high sodium levels can damage the kidney’s filtering units (glomeruli), leading to reduced function."
+________________________________________
+36. What percentage of sodium consumed daily is excreted in urine?
+•	Options:
+A. 10%
+B. 25%
+C. 50%
+D. 95%
+•	Correct Answer: D
+•	Feedback:
+"Correct! The kidneys excrete about 95% of dietary sodium to maintain balance in the body."
+________________________________________
+37. Which of these contributes most to dietary sodium intake?
+•	Options:
+A. Naturally occurring sodium in foods
+B. Sodium added during cooking
+C. Processed and packaged foods
+D. Water with added minerals
+•	Correct Answer: C
+•	Feedback:
+"Correct! Processed and packaged foods account for more than 70% of dietary sodium intake."
+________________________________________
+38. How does potassium counteract the effects of sodium?
+•	Options:
+A. By reducing blood volume
+B. By helping excrete sodium through urine
+C. By blocking sodium absorption in the intestines
+D. By neutralising sodium’s taste in food
+•	Correct Answer: B
+•	Feedback:
+"Correct! Potassium helps the kidneys excrete sodium, which lowers blood pressure and reduces water retention."
+________________________________________
+39. Which dietary mineral is most depleted when sodium levels are too high?
+•	Options:
+A. Calcium
+B. Magnesium
+C. Zinc
+D. Iron
+•	Correct Answer: A
+•	Feedback:
+"Correct! Excess sodium increases calcium loss through urine, potentially affecting bone health."
+________________________________________
+40. True or False: The effects of high sodium intake are irreversible.
+•	Correct Answer: False
+•	Feedback:
+"Correct! While chronic high sodium can cause long-term damage, reducing sodium intake can improve health and lower blood pressure over time."
+________________________________________
+41. What is the primary cause of hypertension linked to high sodium intake?
+•	Options:
+A. Increased heart rate
+B. Narrowing of blood vessels
+C. Water retention increasing blood volume
+D. Elevated cholesterol levels
+•	Correct Answer: C
+•	Feedback:
+"Correct! Excess sodium causes water retention, increasing blood volume and placing stress on blood vessels."
+________________________________________
+42. Which of these groups is most likely to benefit from a low-sodium diet?
+•	Options:
+A. Individuals with normal blood pressure
+B. People with chronic kidney disease
+C. Teenagers with high physical activity levels
+D. Athletes after intense exercise
+•	Correct Answer: B
+•	Feedback:
+"Correct! People with chronic kidney disease benefit most from a low-sodium diet, as it reduces stress on their kidneys."
+________________________________________
+43. What is the recommended daily sodium intake for individuals with high blood pressure?
+•	Options:
+A. 2,300 mg
+B. 1,500 mg
+C. 3,000 mg
+D. 1,200 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! People with high blood pressure are advised to limit sodium intake to 1,500 mg per day to manage their condition."
+________________________________________
+44. Which of these foods naturally contains the most sodium?
+•	Options:
+A. Celery
+B. Apples
+C. Bananas
+D. Potatoes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Celery is naturally higher in sodium compared to most fruits and vegetables."
+________________________________________
+45. How does a high-sodium diet contribute to stroke risk?
+•	Options:
+A. It damages neurons directly
+B. It narrows blood vessels, reducing oxygen supply to the brain
+C. It increases cholesterol levels in arteries
+D. It weakens blood vessel walls
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium causes narrowing of blood vessels, which can restrict oxygen supply and lead to stroke."
+________________________________________
+46. What is the relationship between sodium and fluid retention?
+•	Options:
+A. Sodium increases fluid retention in tissues
+B. Sodium reduces fluid retention
+C. Sodium has no effect on fluid balance
+D. Sodium dehydrates tissues
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium attracts water, leading to fluid retention in tissues and increased blood volume."
+________________________________________
+47. How does sodium intake impact kidney stone formation?
+•	Options:
+A. Sodium promotes calcium excretion, increasing stone risk
+B. Sodium prevents stone formation by diluting urine
+C. Sodium neutralises acidic compounds in the urine
+D. Sodium has no effect on kidney stones
+•	Correct Answer: A
+•	Feedback:
+"Correct! High sodium intake increases calcium excretion, which can lead to kidney stone formation."
+________________________________________
+48. What is the primary role of sodium in the body?
+•	Options:
+A. Providing energy
+B. Regulating fluid balance and nerve function
+C. Building muscle mass
+D. Strengthening bones
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium’s primary role is regulating fluid balance and supporting nerve and muscle function."
+________________________________________
+49. Which group is at the greatest risk of sodium-related hypertension?
+•	Options:
+A. Adults with high potassium intake
+B. People with a family history of hypertension
+C. Teenagers on high-calorie diets
+D. Individuals who exercise regularly
+•	Correct Answer: B
+•	Feedback:
+"Correct! A family history of hypertension increases the likelihood of sodium-related high blood pressure."
+________________________________________
+50. What is a practical way to reduce sodium in canned foods?
+•	Options:
+A. Rinse them under water before cooking
+B. Add vinegar to neutralise sodium
+C. Cook them for longer to dissolve sodium
+D. Avoid rinsing to preserve nutrients
+•	Correct Answer: A
+•	Feedback:
+"Correct! Rinsing canned foods can reduce sodium content by up to 40%."
+51. Which of these conditions can develop from prolonged high sodium intake?
+•	Options:
+A. Chronic kidney disease
+B. Osteoporosis
+C. Heart failure
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! High sodium intake is linked to chronic kidney disease, osteoporosis, and heart failure due to its effects on blood pressure and calcium excretion."
+________________________________________
+52. What is a sodium-potassium pump?
+•	Options:
+A. A mechanism in the kidneys to filter sodium and potassium
+B. A cellular mechanism that transports sodium out of cells and potassium in
+C. A process that converts sodium into energy
+D. A dietary supplement for balancing electrolytes
+•	Correct Answer: B
+•	Feedback:
+"Correct! The sodium-potassium pump maintains the balance of these ions across cell membranes, essential for nerve and muscle function."
+________________________________________
+53. How does high sodium intake affect arterial stiffness?
+•	Options:
+A. It increases arterial flexibility
+B. It reduces blood flow
+C. It leads to hardening of arteries over time
+D. It has no effect on arteries
+•	Correct Answer: C
+•	Feedback:
+"Correct! Chronic high sodium intake contributes to arterial stiffness, increasing the risk of cardiovascular disease."
+________________________________________
+54. True or False: Sodium is directly involved in glucose absorption in the small intestine.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Sodium aids glucose absorption by enabling active transport through sodium-glucose co-transporters in the small intestine."
+________________________________________
+55. What is the main effect of sodium on the extracellular fluid?
+•	Options:
+A. It decreases fluid volume
+B. It regulates osmotic pressure
+C. It absorbs potassium from cells
+D. It removes waste products
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium helps regulate osmotic pressure in extracellular fluid, which is crucial for fluid balance."
+________________________________________
+56. Which of these foods contributes significantly to hidden sodium in the diet?
+•	Options:
+A. Breakfast cereals
+B. Fresh fruits
+C. Unseasoned meat
+D. Raw vegetables
+•	Correct Answer: A
+•	Feedback:
+"Correct! Many breakfast cereals contain hidden sodium, even though they don’t taste salty."
+________________________________________
+57. What role does sodium play in maintaining blood volume?
+•	Options:
+A. It prevents blood clotting
+B. It attracts water, increasing blood volume
+C. It thickens the blood to slow flow
+D. It has no role in blood volume regulation
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium attracts water into the bloodstream, directly affecting blood volume and pressure."
+________________________________________
+58. How does reducing sodium intake affect kidney health?
+•	Options:
+A. It decreases the workload on the kidneys
+B. It causes calcium buildup in the kidneys
+C. It leads to dehydration
+D. It has no effect on kidney health
+•	Correct Answer: A
+•	Feedback:
+"Correct! Lowering sodium intake reduces the strain on kidneys, improving their long-term function."
+________________________________________
+59. What is the primary reason some salt substitutes contain potassium chloride?
+•	Options:
+A. To improve the taste of food
+B. To balance the effects of sodium on blood pressure
+C. To provide energy
+D. To enhance food preservation
+•	Correct Answer: B
+•	Feedback:
+"Correct! Potassium chloride in salt substitutes counteracts sodium’s effects on blood pressure."
+________________________________________
+60. Which of these populations has the highest recommended sodium intake?
+•	Options:
+A. Children under 5
+B. Healthy adults
+C. Athletes with high sweat loss
+D. Older adults with kidney disease
+•	Correct Answer: C
+•	Feedback:
+"Correct! Athletes lose significant sodium through sweat and may require higher intake to maintain balance."
+________________________________________
+61. What is the link between high sodium intake and stroke risk?
+•	Options:
+A. Sodium directly damages brain cells
+B. Sodium increases blood volume, leading to higher blood pressure
+C. Sodium removes oxygen from the blood
+D. Sodium reduces the flow of cerebrospinal fluid
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excess sodium raises blood pressure, which increases the risk of stroke over time."
+________________________________________
+62. True or False: Sodium intake has no effect on calcium excretion in urine.
+•	Correct Answer: False
+•	Feedback:
+"Correct! High sodium intake increases calcium excretion in urine, which may affect bone health."
+________________________________________
+63. What is the sodium concentration of normal saline used in medical treatments?
+•	Options:
+A. 0.5%
+B. 0.9%
+C. 1.5%
+D. 2.0%
+•	Correct Answer: B
+•	Feedback:
+"Correct! Normal saline contains 0.9% sodium chloride, matching the concentration in human blood."
+________________________________________
+64. Which type of food processing adds the most sodium?
+•	Options:
+A. Freezing
+B. Canning with preservatives
+C. Drying with natural ingredients
+D. Blending fresh ingredients
+•	Correct Answer: B
+•	Feedback:
+"Correct! Canned foods often contain added sodium as a preservative to extend shelf life."
+________________________________________
+65. How does aldosterone influence sodium levels?
+•	Options:
+A. It increases sodium excretion in urine
+B. It promotes sodium retention in the kidneys
+C. It blocks sodium absorption in the intestines
+D. It reduces sodium levels in the bloodstream
+•	Correct Answer: B
+•	Feedback:
+"Correct! Aldosterone signals the kidneys to retain sodium, helping regulate blood pressure and fluid balance."
+________________________________________
+66. Which of these is a consequence of long-term low sodium intake?
+•	Options:
+A. Hypernatremia
+B. Hyponatremia
+C. Increased blood pressure
+D. Kidney stones
+•	Correct Answer: B
+•	Feedback:
+"Correct! Prolonged low sodium intake can cause hyponatremia, leading to symptoms like fatigue, confusion, and muscle weakness."
+________________________________________
+67. Which disease is closely linked to excessive sodium consumption?
+•	Options:
+A. Type 2 diabetes
+B. Hypertension
+C. Asthma
+D. Alzheimer’s disease
+•	Correct Answer: B
+•	Feedback:
+"Correct! Excess sodium is a major contributor to hypertension, which increases the risk of heart disease and stroke."
+________________________________________
+68. How does sodium contribute to the development of kidney stones?
+•	Options:
+A. It promotes calcium excretion in urine
+B. It crystallises in the kidneys
+C. It forms bonds with magnesium in urine
+D. It reduces urine pH, leading to stone formation
+•	Correct Answer: A
+•	Feedback:
+"Correct! Excess sodium increases calcium excretion, which can lead to kidney stone formation."
+________________________________________
+69. True or False: Sodium is stored in the bones to regulate blood levels.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Sodium is stored in the bones as a reservoir to help maintain proper blood levels when intake is insufficient."
+________________________________________
+70. What is the effect of sodium on the thirst mechanism?
+•	Options:
+A. Sodium suppresses the thirst mechanism
+B. Sodium triggers thirst by increasing blood osmolarity
+C. Sodium neutralises thirst signals
+D. Sodium has no effect on thirst
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium increases blood osmolarity, which activates the thirst mechanism to encourage hydration."
+________________________________________
+71. Which group benefits most from limiting sodium to less than 1,500 mg/day?
+•	Options:
+A. Athletes
+B. People with hypertension
+C. Teenagers
+D. Pregnant women
+•	Correct Answer: B
+•	Feedback:
+"Correct! People with hypertension benefit most from stricter sodium limits, as it helps manage blood pressure."
+________________________________________
+72. What is the primary reason sodium is added to processed meats?
+•	Options:
+A. To enhance flavour
+B. To act as a preservative
+C. To improve texture
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Sodium is added to processed meats for flavour, preservation, and texture enhancement."
+________________________________________
+73. How does sodium imbalance affect cognitive function?
+•	Options:
+A. It causes confusion and memory loss
+B. It improves mental focus
+C. It increases neuron activity
+D. It has no impact on cognitive function
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium imbalance can disrupt nerve signalling, leading to confusion and memory issues."
+________________________________________
+74. What is the function of sodium in maintaining muscle function?
+•	Options:
+A. It provides energy for muscle contractions
+B. It triggers nerve signals needed for contraction
+C. It stabilises muscle fibres during exertion
+D. It has no effect on muscle function
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium triggers electrical signals that prompt muscle contractions."
+________________________________________
+75. True or False: Sodium chloride is the only dietary source of sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Sodium is found naturally in many foods and is not limited to sodium chloride (table salt)."
+76. How does high sodium intake affect vascular health?
+•	Options:
+A. It increases elasticity of blood vessels
+B. It narrows blood vessels, raising blood pressure
+C. It improves oxygen delivery to tissues
+D. It strengthens arterial walls
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium intake narrows blood vessels, leading to increased blood pressure and potential vascular damage."
+________________________________________
+77. Which electrolyte is most critical for balancing sodium levels in the body?
+•	Options:
+A. Calcium
+B. Magnesium
+C. Potassium
+D. Zinc
+•	Correct Answer: C
+•	Feedback:
+"Correct! Potassium works with sodium to maintain fluid balance and regulate blood pressure."
+________________________________________
+78. What is the effect of sodium on intracellular fluid levels?
+•	Options:
+A. Sodium draws water into cells
+B. Sodium pushes water out of cells
+C. Sodium has no effect on intracellular fluid
+D. Sodium stabilises intracellular fluid levels
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium primarily affects extracellular fluid, drawing water out of cells to maintain balance."
+________________________________________
+79. True or False: Sodium is required for ATP production in cells.
+•	Correct Answer: True
+•	Feedback:
+"Correct! Sodium is involved in ATP production by driving the sodium-potassium pump, which maintains the electrochemical gradient necessary for cellular energy."
+________________________________________
+80. What role does sodium play in nutrient absorption?
+•	Options:
+A. It aids the absorption of glucose and amino acids in the intestines
+B. It transports vitamins across cell membranes
+C. It prevents fat absorption
+D. It reduces the absorption of proteins
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium enables the active transport of glucose and amino acids during digestion."
+________________________________________
+81. Which condition can result from a rapid drop in sodium levels?
+•	Options:
+A. Hyperkalemia
+B. Hyponatremia
+C. Hyperglycemia
+D. Hypocalcemia
+•	Correct Answer: B
+•	Feedback:
+"Correct! A rapid drop in sodium levels causes hyponatremia, which can lead to confusion, seizures, or even coma."
+________________________________________
+82. How does sodium impact hormonal balance in the body?
+•	Options:
+A. It stimulates aldosterone release to regulate fluid balance
+B. It inhibits insulin production
+C. It reduces the activity of cortisol
+D. It suppresses the function of thyroid hormones
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium levels influence aldosterone secretion, which helps regulate fluid and electrolyte balance."
+________________________________________
+83. What is the link between sodium and oxidative stress?
+•	Options:
+A. High sodium intake reduces oxidative stress
+B. Sodium increases the production of free radicals
+C. Sodium neutralises antioxidants in the body
+D. Sodium has no impact on oxidative stress
+•	Correct Answer: B
+•	Feedback:
+"Correct! High sodium intake can increase oxidative stress by elevating free radical production, contributing to cellular damage."
+________________________________________
+84. Which of these is NOT a function of sodium?
+•	Options:
+A. Regulating blood pressure
+B. Supporting muscle contraction
+C. Generating nerve impulses
+D. Building bone density
+•	Correct Answer: D
+•	Feedback:
+"Correct! Sodium plays no role in building bone density, though it does regulate blood pressure, muscle contraction, and nerve function."
+________________________________________
+85. What effect does a high-sodium diet have on the kidneys over time?
+•	Options:
+A. It improves kidney filtration
+B. It increases the risk of chronic kidney disease
+C. It strengthens the glomeruli
+D. It promotes calcium absorption in the kidneys
+•	Correct Answer: B
+•	Feedback:
+"Correct! A high-sodium diet overworks the kidneys, increasing the risk of chronic kidney disease and damage."
+________________________________________
+86. True or False: Sodium chloride is the only compound that provides dietary sodium.
+•	Correct Answer: False
+•	Feedback:
+"Correct! Other compounds, like sodium bicarbonate and sodium citrate, also contribute dietary sodium."
+________________________________________
+87. What is the impact of reducing dietary sodium on bone health?
+•	Options:
+A. It decreases bone density
+B. It increases calcium retention in bones
+C. It reduces the absorption of vitamin D
+D. It has no impact on bone health
+•	Correct Answer: B
+•	Feedback:
+"Correct! Lower sodium intake reduces calcium loss through urine, helping maintain stronger bones."
+________________________________________
+88. How does sodium affect water retention in the body?
+•	Options:
+A. Sodium reduces water retention by stabilising cell membranes
+B. Sodium increases water retention by attracting water into tissues
+C. Sodium has no effect on water retention
+D. Sodium reduces water retention by enhancing urine output
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium attracts water into the bloodstream and tissues, leading to increased water retention."
+________________________________________
+89. Which of these is a primary source of sodium in processed foods?
+•	Options:
+A. Sodium nitrate
+B. Sodium chloride
+C. Sodium bicarbonate
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Sodium chloride, sodium nitrate, and sodium bicarbonate are all common sources of sodium in processed foods."
+________________________________________
+90. Which hormone regulates sodium levels by promoting excretion in the kidneys?
+•	Options:
+A. Aldosterone
+B. Vasopressin
+C. Renin
+D. Atrial natriuretic peptide (ANP)
+•	Correct Answer: D
+•	Feedback:
+"Correct! ANP promotes sodium excretion in the kidneys to regulate blood pressure and fluid balance."
+________________________________________
+91. True or False: Sodium has no effect on the risk of stomach cancer.
+•	Correct Answer: False
+•	Feedback:
+"Correct! High sodium intake has been linked to an increased risk of stomach cancer, likely due to damage to the stomach lining."
+________________________________________
+92. How does sodium intake influence the renin-angiotensin system?
+•	Options:
+A. High sodium suppresses the system to lower blood pressure
+B. High sodium activates the system, increasing blood pressure
+C. Low sodium activates the system to raise blood pressure
+D. Sodium has no effect on this system
+•	Correct Answer: C
+•	Feedback:
+"Correct! Low sodium intake activates the renin-angiotensin system to retain sodium and maintain blood pressure."
+________________________________________
+93. Which condition is most directly linked to high sodium consumption?
+•	Options:
+A. Type 1 diabetes
+B. Chronic obstructive pulmonary disease (COPD)
+C. Hypertension
+D. Liver cirrhosis
+•	Correct Answer: C
+•	Feedback:
+"Correct! High sodium intake is strongly associated with hypertension, a major risk factor for cardiovascular diseases."
+________________________________________
+94. Which of these sodium-reducing habits also promotes cardiovascular health?
+•	Options:
+A. Eating more potassium-rich foods
+B. Avoiding processed foods
+C. Cooking meals at home with fresh ingredients
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! All these habits reduce sodium and improve overall cardiovascular health."
+________________________________________
+95. What is the effect of sodium on extracellular fluid volume?
+•	Options:
+A. It decreases fluid volume
+B. It stabilises fluid volume
+C. It increases fluid volume by retaining water
+D. It eliminates extracellular fluid entirely
+•	Correct Answer: C
+•	Feedback:
+"Correct! Sodium increases extracellular fluid volume by attracting and retaining water."
+________________________________________
+96. True or False: Sodium consumption has no effect on gut microbiota.
+•	Correct Answer: False
+•	Feedback:
+"Correct! High sodium intake can alter gut microbiota, potentially affecting immune function and overall health."
+________________________________________
+97. Which of these is a long-term benefit of reducing sodium intake?
+•	Options:
+A. Lower risk of hypertension
+B. Improved kidney health
+C. Reduced risk of cardiovascular disease
+D. All of the above
+•	Correct Answer: D
+•	Feedback:
+"Correct! Reducing sodium intake offers multiple long-term health benefits, including lower risk of hypertension and cardiovascular disease."
+________________________________________
+98. How does sodium affect nerve signalling?
+•	Options:
+A. It inhibits the generation of electrical impulses
+B. It enables the transmission of electrical impulses between nerve cells
+C. It prevents neurotransmitter release
+D. It has no role in nerve signalling
+•	Correct Answer: B
+•	Feedback:
+"Correct! Sodium enables the transmission of electrical impulses by facilitating depolarisation and repolarisation of nerve cells."
+________________________________________
+99. What is the maximum daily sodium intake recommended by the WHO?
+•	Options:
+A. 1,500 mg
+B. 2,000 mg
+C. 2,300 mg
+D. 3,000 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! The WHO recommends a maximum sodium intake of 2,000 mg per day to reduce the risk of hypertension and related diseases."
+________________________________________
+100. Which of these foods naturally contains the most sodium?
+•	Options:
+A. Spinach
+B. Celery
+C. Apples
+D. Bananas
+•	Correct Answer: B
+•	Feedback:
+"Correct! Celery contains naturally higher sodium levels compared to most fruits and vegetables."
+
+
+Level 4: Behavioural Challenges Questions 
+________________________________________
+1. You are grocery shopping and want to choose a healthy soup. Which label should you look for?
+•	Options:
+A. "No added salt"
+B. "Reduced fat"
+C. "Low calorie"
+D. "Organic"
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'No added salt' soups are lower in sodium, making them a healthier option."
+________________________________________
+2. At a restaurant, you want to reduce sodium in your meal. What is the best action to take?
+•	Options:
+A. Avoid sauces and dressings
+B. Add extra table salt
+C. Order fried foods
+D. Drink soda with your meal
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping sauces and dressings is an effective way to reduce sodium intake at restaurants."
+________________________________________
+3. You’re preparing a stir-fry at home. Which ingredient should you avoid?
+•	Options:
+A. Fresh vegetables
+B. Low-sodium soy sauce
+C. Pre-marinated meats
+D. Fresh garlic
+•	Correct Answer: C
+•	Feedback:
+"Correct! Pre-marinated meats often contain high levels of sodium. Fresh options are healthier."
+________________________________________
+4. Your friend wants to switch to a low-sodium diet. What’s your best advice?
+•	Options:
+A. Check food labels for sodium content
+B. Replace fresh vegetables with canned ones
+C. Increase processed snack consumption
+D. Use table salt instead of sea salt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Checking food labels for sodium content helps identify lower-sodium choices."
+________________________________________
+5. You’re making a salad. Which topping should you choose to keep sodium low?
+•	Options:
+A. Croutons
+B. Bacon bits
+C. Avocado slices
+D. Parmesan cheese
+•	Correct Answer: C
+•	Feedback:
+"Correct! Avocado slices are naturally low in sodium and a nutritious choice."
+________________________________________
+6. You want to season a dish without using salt. Which ingredient is the best choice?
+•	Options:
+A. Garlic powder
+B. Soy sauce
+C. Table salt
+D. Chicken bouillon
+•	Correct Answer: A
+•	Feedback:
+"Correct! Garlic powder is a sodium-free seasoning that adds flavour to dishes."
+________________________________________
+7. You’re planning your weekly meals. What’s the best strategy to reduce sodium?
+•	Options:
+A. Include more fresh fruits and vegetables
+B. Use processed soups as a base for meals
+C. Add extra salt while cooking
+D. Buy pre-marinated meats
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits and vegetables are naturally low in sodium and should be a key part of meal planning."
+________________________________________
+8. Which action will most reduce sodium in a pasta dish?
+•	Options:
+A. Using canned pasta sauce
+B. Adding parmesan cheese
+C. Cooking pasta with salted water
+D. Preparing a sauce from fresh tomatoes
+•	Correct Answer: D
+•	Feedback:
+"Correct! Using fresh tomatoes to make pasta sauce eliminates the added sodium found in canned versions."
+________________________________________
+9. You’re choosing a snack at a vending machine. Which option is the healthiest?
+•	Options:
+A. Salted pretzels
+B. Unsalted nuts
+C. Flavoured popcorn
+D. Cheese crackers
+•	Correct Answer: B
+•	Feedback:
+"Correct! Unsalted nuts are a low-sodium snack choice compared to other processed options."
+________________________________________
+10. You’re dining out and want to reduce sodium. What’s the best drink choice?
+•	Options:
+A. Soda
+B. Bottled water
+C. Sports drink
+D. Lemonade
+•	Correct Answer: B
+•	Feedback:
+"Correct! Bottled water is naturally sodium-free and the healthiest drink option."
+________________________________________
+11. Which meal choice will help you reduce sodium intake?
+•	Options:
+A. Grilled fish with lemon and steamed vegetables
+B. Fried chicken with mashed potatoes and gravy
+C. Pasta with pre-made alfredo sauce
+D. Pizza with pepperoni and extra cheese
+•	Correct Answer: A
+•	Feedback:
+"Correct! Grilled fish with steamed vegetables is naturally low in sodium and a healthy choice."
+________________________________________
+12. You’re reading a food label. Which sodium content per serving is considered low?
+•	Options:
+A. Less than 50 mg
+B. Less than 140 mg
+C. Less than 300 mg
+D. Less than 500 mg
+•	Correct Answer: B
+•	Feedback:
+"Correct! Foods with less than 140 mg of sodium per serving are classified as low-sodium."
+________________________________________
+13. You’re preparing homemade soup. Which step helps reduce sodium?
+•	Options:
+A. Adding salt during cooking
+B. Using low-sodium broth
+C. Adding pre-made seasoning mixes
+D. Including canned vegetables
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium broth reduces the overall sodium content of your homemade soup."
+________________________________________
+14. You’re at a deli ordering a sandwich. How can you make it lower in sodium?
+•	Options:
+A. Choose processed meats like ham or salami
+B. Add fresh vegetables instead of salty condiments
+C. Use regular mayonnaise
+D. Include pickles as a topping
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh vegetables reduce sodium while adding crunch and flavour to your sandwich."
+________________________________________
+15. Which type of bread is the best choice for reducing sodium intake?
+•	Options:
+A. Whole wheat bread
+B. Low-sodium bread
+C. White bread
+D. Multigrain bread
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium bread is specifically made to contain less sodium than other bread types."
+________________________________________
+16. You’re choosing a breakfast cereal. Which factor is most important to reduce sodium?
+•	Options:
+A. Fibre content
+B. Sodium content on the label
+C. Sugar content
+D. Calorie count
+•	Correct Answer: B
+•	Feedback:
+"Correct! Checking sodium content on the label ensures you choose a low-sodium breakfast cereal."
+________________________________________
+17. You’re cooking a family meal. What’s the easiest way to cut sodium?
+•	Options:
+A. Use fresh herbs instead of salt
+B. Add soy sauce for flavour
+C. Cook with salted butter
+D. Use processed seasoning mixes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs add flavour without increasing sodium content."
+________________________________________
+18. You’re buying a frozen dinner. Which label should you choose for lower sodium?
+•	Options:
+A. "Low calorie"
+B. "Low sodium"
+C. "Gluten-free"
+D. "Organic"
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'Low sodium' ensures the meal contains less than 140 mg of sodium per serving."
+________________________________________
+19. Which restaurant meal is likely the lowest in sodium?
+•	Options:
+A. Caesar salad with dressing
+B. Grilled chicken with steamed vegetables
+C. Cheeseburger with fries
+D. Pasta with marinara sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Grilled chicken with steamed vegetables is naturally low in sodium and a healthier choice."
+________________________________________
+20. You’re marinating chicken for dinner. What’s the best way to keep sodium low?
+•	Options:
+A. Use pre-made marinades
+B. Add salt directly to the meat
+C. Use a mix of lemon juice, garlic, and herbs
+D. Use soy sauce as the main ingredient
+•	Correct Answer: C
+•	Feedback:
+"Correct! Lemon juice, garlic, and herbs create a tasty, sodium-free marinade."
+________________________________________
+21. You’re hosting a party. Which snack should you serve to minimise sodium?
+•	Options:
+A. Salted peanuts
+B. Potato chips
+C. Fresh vegetable sticks with hummus
+D. Pretzels
+•	Correct Answer: C
+•	Feedback:
+"Correct! Fresh vegetable sticks with hummus are a low-sodium and nutritious party snack."
+________________________________________
+22. You’re preparing a sauce. Which ingredient adds flavour without sodium?
+•	Options:
+A. Soy sauce
+B. Fresh herbs
+C. Bouillon cubes
+D. Worcestershire sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh herbs enhance flavour without increasing sodium levels."
+________________________________________
+23. You’re selecting snacks for a child. What’s the healthiest low-sodium choice?
+•	Options:
+A. Cheese-flavoured crackers
+B. Fresh fruit slices
+C. Salted popcorn
+D. Granola bars
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh fruits are naturally sodium-free and a healthy choice for children."
+________________________________________
+24. You’re preparing dinner and want to reduce sodium. Which ingredient should you use?
+•	Options:
+A. Unsalted butter
+B. Table salt
+C. Canned soup
+D. Processed cheese
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted butter is a low-sodium alternative to regular butter or other salty ingredients."
+________________________________________
+25. You’re craving a savoury snack. What’s the best option to limit sodium?
+•	Options:
+A. Cheese sticks
+B. Salted pretzels
+C. Plain, unsalted popcorn
+D. Flavoured tortilla chips
+•	Correct Answer: C
+•	Feedback:
+"Correct! Unsalted popcorn is a low-sodium snack that satisfies cravings."
+26. You’re baking bread. Which ingredient substitution will lower sodium?
+•	Options:
+A. Use unsalted butter instead of salted butter
+B. Replace white flour with whole wheat flour
+C. Add extra sugar
+D. Double the yeast amount
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using unsalted butter reduces sodium without affecting the quality of the bread."
+________________________________________
+27. You’re at a fast-food restaurant. Which meal option is the healthiest for sodium reduction?
+•	Options:
+A. Cheeseburger with fries
+B. Grilled chicken sandwich without sauce
+C. Fried chicken nuggets with barbecue sauce
+D. Large pepperoni pizza slice
+•	Correct Answer: B
+•	Feedback:
+"Correct! A grilled chicken sandwich without sauce is a better choice for lower sodium compared to fried or heavily processed options."
+________________________________________
+28. You’re seasoning meat for grilling. Which option keeps sodium low?
+•	Options:
+A. Salt and pepper
+B. Soy sauce marinade
+C. Fresh herbs and lemon zest
+D. BBQ sauce
+•	Correct Answer: C
+•	Feedback:
+"Correct! Fresh herbs and lemon zest add flavour without increasing sodium content."
+________________________________________
+29. You’re shopping for canned beans. Which label is the best choice?
+•	Options:
+A. "Organic"
+B. "Reduced sodium"
+C. "With sea salt"
+D. "Ready to eat"
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'Reduced sodium' canned beans have significantly less sodium compared to regular varieties."
+________________________________________
+30. You’re cooking pasta. How can you reduce sodium?
+•	Options:
+A. Avoid adding salt to the boiling water
+B. Use salted butter for flavour
+C. Add pre-made pesto sauce
+D. Sprinkle grated parmesan on top
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping salt in the boiling water reduces sodium without altering the pasta’s texture."
+________________________________________
+31. You’re preparing a salad. Which dressing is the best low-sodium option?
+•	Options:
+A. Ranch dressing
+B. Italian dressing
+C. Olive oil and lemon juice
+D. Caesar dressing
+•	Correct Answer: C
+•	Feedback:
+"Correct! Olive oil and lemon juice are naturally low in sodium and enhance flavour."
+________________________________________
+32. You’re hosting a brunch. Which food item should you avoid to minimise sodium?
+•	Options:
+A. Scrambled eggs with fresh herbs
+B. Smoked salmon on bagels
+C. Fresh fruit salad
+D. Whole grain toast with avocado
+•	Correct Answer: B
+•	Feedback:
+"Correct! Smoked salmon is high in sodium, unlike fresh herbs, fruits, or avocado."
+________________________________________
+33. You’re preparing mashed potatoes. Which ingredient keeps sodium low?
+•	Options:
+A. Regular salted butter
+B. Low-sodium chicken broth
+C. Processed cheese
+D. Cream of mushroom soup
+•	Correct Answer: B
+•	Feedback:
+"Correct! Low-sodium chicken broth adds flavour without increasing sodium levels."
+________________________________________
+34. You’re grocery shopping. Which snack is naturally low in sodium?
+•	Options:
+A. Cheese crackers
+B. Salted nuts
+C. Unsalted rice cakes
+D. Pretzels
+•	Correct Answer: C
+•	Feedback:
+"Correct! Unsalted rice cakes are a naturally low-sodium option for snacking."
+________________________________________
+35. You’re ordering soup at a café. What should you avoid?
+•	Options:
+A. Tomato bisque
+B. French onion soup
+C. Low-sodium vegetable soup
+D. Chicken noodle soup
+•	Correct Answer: B
+•	Feedback:
+"Correct! French onion soup is typically high in sodium due to its broth and cheese topping."
+________________________________________
+36. You’re marinating fish. Which method keeps sodium low?
+•	Options:
+A. Using soy sauce
+B. Adding salt and vinegar
+C. Combining olive oil, garlic, and fresh herbs
+D. Using store-bought marinades
+•	Correct Answer: C
+•	Feedback:
+"Correct! Olive oil, garlic, and fresh herbs are a sodium-free marinade option."
+________________________________________
+37. You’re choosing a side dish for dinner. Which option has the least sodium?
+•	Options:
+A. Canned green beans
+B. Steamed fresh broccoli
+C. Mashed potatoes with gravy
+D. Garlic bread
+•	Correct Answer: B
+•	Feedback:
+"Correct! Steamed fresh broccoli is naturally low in sodium, unlike canned or processed options."
+________________________________________
+38. You’re buying cheese. Which type is naturally lower in sodium?
+•	Options:
+A. Feta cheese
+B. Cheddar cheese
+C. Swiss cheese
+D. Blue cheese
+•	Correct Answer: C
+•	Feedback:
+"Correct! Swiss cheese is naturally lower in sodium compared to other varieties."
+________________________________________
+39. You’re preparing a stew. What’s the best way to reduce sodium?
+•	Options:
+A. Use fresh herbs instead of salt
+B. Add bouillon cubes
+C. Use pre-made stock
+D. Sprinkle table salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs add flavour while keeping the sodium content low."
+________________________________________
+40. You’re packing a lunch. Which sandwich option is healthiest for sodium?
+•	Options:
+A. Ham and cheese on white bread
+B. Grilled chicken with avocado on whole grain bread
+C. Turkey with mayo on a bagel
+D. Tuna salad on rye bread
+•	Correct Answer: B
+•	Feedback:
+"Correct! Grilled chicken and avocado on whole grain bread are low-sodium and nutritious choices."
+________________________________________
+41. You’re choosing a packaged snack. Which label indicates the lowest sodium?
+•	Options:
+A. "Lightly salted"
+B. "Reduced sodium"
+C. "No added salt"
+D. "Sea salt added"
+•	Correct Answer: C
+•	Feedback:
+"Correct! 'No added salt' means the product has minimal sodium, making it the best option."
+________________________________________
+42. You’re cooking rice. What’s the best way to keep sodium low?
+•	Options:
+A. Use salted broth instead of water
+B. Add butter during cooking
+C. Cook in plain water without adding salt
+D. Sprinkle soy sauce before serving
+•	Correct Answer: C
+•	Feedback:
+"Correct! Cooking rice in plain water keeps sodium levels low."
+________________________________________
+43. You’re buying frozen vegetables. What should you avoid?
+•	Options:
+A. Plain frozen peas
+B. Frozen vegetables with added sauces
+C. Frozen spinach without seasoning
+D. Frozen carrots with no additives
+•	Correct Answer: B
+•	Feedback:
+"Correct! Frozen vegetables with added sauces often contain high levels of sodium."
+________________________________________
+44. You’re hosting a barbecue. Which condiment should you avoid for sodium reduction?
+•	Options:
+A. Ketchup
+B. Mustard
+C. Vinegar
+D. Fresh salsa
+•	Correct Answer: A
+•	Feedback:
+"Correct! Ketchup is typically high in sodium, whereas fresh salsa and vinegar are lower-sodium alternatives."
+________________________________________
+45. You’re choosing breakfast. Which option is the lowest in sodium?
+•	Options:
+A. Bagel with cream cheese
+B. Oatmeal with fresh fruit
+C. Bacon and eggs
+D. Pancakes with syrup
+•	Correct Answer: B
+•	Feedback:
+"Correct! Oatmeal with fresh fruit is naturally low in sodium and a healthy breakfast option."
+________________________________________
+46. You’re buying a sports drink. What’s the healthiest choice?
+•	Options:
+A. Low-sodium sports drink
+B. Regular sports drink
+C. Soda
+D. Lemonade
+•	Correct Answer: A
+•	Feedback:
+"Correct! Low-sodium sports drinks are better for hydration without excessive sodium."
+________________________________________
+47. You’re dining out at a steakhouse. Which side dish is the healthiest for sodium?
+•	Options:
+A. Loaded baked potato with sour cream
+B. Garlic bread
+C. Steamed asparagus
+D. Macaroni and cheese
+•	Correct Answer: C
+•	Feedback:
+"Correct! Steamed asparagus is a naturally low-sodium option compared to processed or cheesy sides."
+________________________________________
+48. You’re preparing a snack. Which option is naturally low in sodium?
+•	Options:
+A. Salted popcorn
+B. Fresh vegetable sticks with hummus
+C. Cheese-flavoured crackers
+D. Pretzels
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh vegetable sticks with hummus are low in sodium and packed with nutrients."
+________________________________________
+49. You’re making a stir-fry. How can you reduce sodium?
+•	Options:
+A. Use low-sodium soy sauce
+B. Add pre-marinated meats
+C. Use canned vegetables
+D. Add store-bought sauces
+•	Correct Answer: A
+•	Feedback:
+"Correct! Low-sodium soy sauce is a great option for reducing sodium while maintaining flavour."
+________________________________________
+50. You’re choosing a pizza topping. Which option is the best for sodium reduction?
+•	Options:
+A. Pepperoni
+B. Fresh vegetables
+C. Sausage
+D. Extra cheese
+•	Correct Answer: B
+•	Feedback:
+"Correct! Fresh vegetables are the healthiest low-sodium pizza topping option."
+50. You’re preparing jollof rice. What’s the best way to reduce sodium in this dish?
+•	Options:
+A. Use fresh tomatoes instead of canned tomato paste
+B. Add powdered bouillon cubes for flavour
+C. Cook with salted margarine
+D. Sprinkle table salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using fresh tomatoes instead of canned tomato paste helps reduce sodium while keeping the dish flavourful."
+________________________________________
+51. You’re seasoning meat for a suya recipe. What’s the best way to lower sodium?
+•	Options:
+A. Use a salt-based spice mix
+B. Add powdered bouillon cubes
+C. Make a homemade spice mix with less salt
+D. Marinate with soy sauce
+•	Correct Answer: C
+•	Feedback:
+"Correct! Preparing your own spice mix allows you to control and reduce sodium content."
+________________________________________
+52. You’re making a pot of egusi soup. How can you lower sodium in the recipe?
+•	Options:
+A. Use low-sodium stock for the base
+B. Add extra table salt to taste
+C. Use salted dry fish without rinsing
+D. Add bouillon cubes for flavour
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using low-sodium stock reduces sodium while keeping the flavour intact."
+________________________________________
+53. You’re preparing yam porridge. What’s a low-sodium cooking strategy?
+•	Options:
+A. Cook with fresh herbs like parsley and thyme
+B. Use salted butter for cooking
+C. Add extra bouillon cubes for flavour
+D. Garnish with salted meat
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs add flavour to yam porridge without increasing sodium levels."
+________________________________________
+54. At a restaurant, you want to order a low-sodium version of fried plantains. What’s the best option?
+•	Options:
+A. Sprinkle salt before frying
+B. Fry plantains without adding salt
+C. Use salted oil for frying
+D. Garnish with salted peanuts
+•	Correct Answer: B
+•	Feedback:
+"Correct! Skipping salt while frying plantains keeps sodium levels low and retains natural sweetness."
+________________________________________
+55. You’re buying packaged cassava chips. What should you check first?
+•	Options:
+A. Sodium content per serving
+B. Brand name
+C. Calorie count
+D. Size of the packaging
+•	Correct Answer: A
+•	Feedback:
+"Correct! Sodium content is a critical factor to consider when selecting snacks like cassava chips."
+________________________________________
+56. You’re cooking okra soup. How can you reduce sodium in this dish?
+•	Options:
+A. Avoid adding salted meats like stockfish
+B. Use store-bought marinades
+C. Add pre-packaged soup bases
+D. Sprinkle salt during cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Avoiding salted meats like stockfish reduces sodium while keeping the dish healthy."
+________________________________________
+57. You’re preparing akara (bean fritters). What’s a low-sodium adjustment?
+•	Options:
+A. Use fresh ground beans without adding salt
+B. Add bouillon cubes for extra flavour
+C. Fry in salted oil
+D. Add salted onions to the batter
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh ground beans without added salt are a low-sodium alternative for akara."
+________________________________________
+58. You’re making kenkey or fufu. What’s the best way to keep sodium low?
+•	Options:
+A. Use fresh maize or cassava without salt
+B. Add table salt during preparation
+C. Include salted fish as a garnish
+D. Serve with salty soup
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using fresh ingredients without salt keeps kenkey or fufu sodium-free."
+________________________________________
+59. You’re hosting a barbecue featuring suya. How can you reduce sodium in your spice mix?
+•	Options:
+A. Use powdered bouillon for flavour
+B. Add more chilli powder and less salt
+C. Include salted peanuts for garnish
+D. Marinate with soy sauce
+•	Correct Answer: B
+•	Feedback:
+"Correct! Balancing spices like chilli powder with reduced salt lowers sodium while keeping the suya flavourful."
+________________________________________
+60. You’re choosing canned African vegetable stew. Which label indicates lower sodium?
+•	Options:
+A. "Organic"
+B. "No added salt"
+C. "Low calorie"
+D. "Ready to eat"
+•	Correct Answer: B
+•	Feedback:
+"Correct! 'No added salt' ensures the canned stew has reduced sodium content."
+________________________________________
+61. You’re cooking African pepper soup. What’s a sodium-smart strategy?
+•	Options:
+A. Use fresh fish instead of salted fish
+B. Add bouillon cubes for flavour
+C. Use pre-packaged spice mixes
+D. Sprinkle salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish keeps sodium levels low compared to salted fish or bouillon cubes."
+________________________________________
+62. You’re making fried rice. What’s a good way to reduce sodium?
+•	Options:
+A. Use fresh vegetables instead of canned vegetables
+B. Add soy sauce for extra flavour
+C. Cook with salted butter
+D. Sprinkle salt while frying rice
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh vegetables reduce sodium compared to canned or pre-seasoned options."
+________________________________________
+63. You’re eating at an African buffet. What’s the best way to reduce sodium?
+•	Options:
+A. Avoid dishes with visible sauces or gravies
+B. Add extra salt at the table
+C. Choose salted meats for protein
+D. Skip fresh fruits and vegetables
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping dishes with sauces or gravies reduces sodium intake at buffets."
+________________________________________
+64. You’re preparing egusi with pounded yam. How can you keep sodium low?
+•	Options:
+A. Use fresh egusi seeds without adding salt
+B. Add bouillon cubes for taste
+C. Sprinkle table salt generously during cooking
+D. Garnish with salted fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh egusi seeds without salt keep the dish naturally low in sodium."
+________________________________________
+65. You’re marinating chicken for an African-style roast. How can you lower sodium?
+•	Options:
+A. Use lime juice and fresh spices for marination
+B. Add powdered bouillon cubes for flavour
+C. Marinate with soy sauce
+D. Use a store-bought marinade
+•	Correct Answer: A
+•	Feedback:
+"Correct! Lime juice and fresh spices add flavour without increasing sodium."
+________________________________________
+66. You’re preparing traditional African soups. Which step helps reduce sodium?
+•	Options:
+A. Avoid pre-packaged soup bases
+B. Use salted dry fish for added flavour
+C. Add multiple bouillon cubes
+D. Sprinkle table salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping pre-packaged soup bases reduces sodium while keeping the soup healthy."
+________________________________________
+67. You’re shopping for condiments. Which option is the best for sodium reduction?
+•	Options:
+A. Palm oil
+B. Hot sauce with no added salt
+C. Soy sauce
+D. Regular ketchup
+•	Correct Answer: B
+•	Feedback:
+"Correct! Hot sauce with no added salt is a better condiment choice for low-sodium diets."
+________________________________________
+68. You’re making banku and tilapia. How can you lower sodium in the tilapia marinade?
+•	Options:
+A. Use lime juice, garlic, and ginger
+B. Add extra soy sauce
+C. Include salted spices
+D. Sprinkle table salt on the fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Lime juice, garlic, and ginger provide flavour without adding sodium."
+________________________________________
+69. You’re frying akara. How can you reduce sodium in the recipe?
+•	Options:
+A. Avoid adding salt to the batter
+B. Add salted onions
+C. Fry in salted oil
+D. Sprinkle salt after frying
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping salt in the batter keeps akara low in sodium."
+________________________________________
+70. You’re making kachumbari (East African salad). How can you ensure it’s sodium-free?
+•	Options:
+A. Use fresh ingredients without salt
+B. Add pre-packaged spice mixes
+C. Include salted peanuts for garnish
+D. Use canned vegetables
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh, unsalted ingredients keep kachumbari sodium-free."
+71. You’re preparing ugali. How can you ensure it’s sodium-free?
+•	Options:
+A. Use plain maize flour and water without adding salt
+B. Add powdered bouillon cubes to the mixture
+C. Sprinkle table salt while cooking
+D. Use pre-seasoned maize flour
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using plain maize flour and water ensures ugali is naturally sodium-free."
+________________________________________
+72. You’re making mbuzi choma (grilled goat). How can you lower sodium?
+•	Options:
+A. Marinate with garlic, ginger, and lime juice
+B. Use salted butter for grilling
+C. Add table salt to the marinade
+D. Use pre-packaged marinades
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh ingredients like garlic, ginger, and lime juice are sodium-free and enhance flavour."
+________________________________________
+73. You’re buying packaged plantain chips. What label indicates the best choice?
+•	Options:
+A. "Low sodium"
+B. "No added salt"
+C. "Lightly salted"
+D. "Organic"
+•	Correct Answer: B
+•	Feedback:
+"Correct! Chips labelled 'no added salt' are the lowest sodium option."
+________________________________________
+74. You’re cooking kontomire stew (spinach stew). Which step helps reduce sodium?
+•	Options:
+A. Use fresh spinach instead of canned spinach
+B. Add powdered bouillon cubes for flavour
+C. Include salted fish in the recipe
+D. Add table salt to taste
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh spinach contains less sodium compared to canned or pre-seasoned versions."
+________________________________________
+75. You’re shopping for frozen vegetables. What should you avoid to reduce sodium?
+•	Options:
+A. Vegetables with added sauces
+B. Plain frozen okra
+C. Frozen spinach without seasoning
+D. Fresh-frozen kale
+•	Correct Answer: A
+•	Feedback:
+"Correct! Frozen vegetables with added sauces often contain high sodium levels."
+________________________________________
+76. You’re preparing isombe (cassava leaf stew). How can you reduce sodium?
+•	Options:
+A. Use fresh cassava leaves without added salt
+B. Include salted meats like pork or fish
+C. Add powdered bouillon cubes
+D. Use salted palm oil for cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh cassava leaves keep sodium levels in isombe low."
+________________________________________
+77. You’re making moimoi (bean pudding). What’s the best way to keep sodium low?
+•	Options:
+A. Use fresh ground beans without salt
+B. Add salted spices for flavour
+C. Include salted meats as garnish
+D. Use powdered soup bases
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using fresh ground beans without salt ensures a low-sodium moimoi."
+________________________________________
+78. You’re preparing pepper soup. How can you make it low in sodium?
+•	Options:
+A. Use fresh fish and herbs instead of bouillon cubes
+B. Add powdered bouillon for flavour
+C. Include salted fish
+D. Sprinkle salt generously while cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish and herbs add flavour without increasing sodium."
+________________________________________
+79. You’re preparing waakye (rice and beans). How can you reduce sodium?
+•	Options:
+A. Use fresh beans instead of canned beans
+B. Add bouillon cubes for taste
+C. Cook rice with salted butter
+D. Garnish with salted fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh beans have significantly less sodium than canned varieties."
+________________________________________
+80. You’re making groundnut soup. How can you keep sodium low?
+•	Options:
+A. Use unsalted peanut butter
+B. Add salted peanuts
+C. Use powdered bouillon for the base
+D. Sprinkle table salt while cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted peanut butter is a low-sodium choice for groundnut soup."
+________________________________________
+81. You’re preparing fried yam and sauce. Which step reduces sodium?
+•	Options:
+A. Fry yam without adding salt
+B. Add soy sauce to the dipping sauce
+C. Sprinkle salt on the yam before frying
+D. Use salted butter for frying
+•	Correct Answer: A
+•	Feedback:
+"Correct! Frying yam without adding salt ensures the dish remains low in sodium."
+________________________________________
+82. You’re shopping for condiments to use in African stews. What’s the best choice?
+•	Options:
+A. Low-sodium soy sauce
+B. Regular ketchup
+C. Pre-made bouillon paste
+D. Hot pepper sauce without added salt
+•	Correct Answer: D
+•	Feedback:
+"Correct! Hot pepper sauce without added salt is a flavourful, low-sodium condiment option."
+________________________________________
+83. You’re making fried rice for a family gathering. Which strategy reduces sodium?
+•	Options:
+A. Use fresh herbs and spices for flavour
+B. Add powdered bouillon cubes
+C. Use salted margarine
+D. Include pre-seasoned meats
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs and spices keep sodium levels low while adding flavour."
+________________________________________
+84. You’re making tilapia stew. How can you reduce sodium in the dish?
+•	Options:
+A. Use fresh tilapia instead of smoked or salted fish
+B. Add powdered soup bases for flavour
+C. Include canned tomatoes with added salt
+D. Sprinkle table salt generously during cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh tilapia is naturally low in sodium, unlike smoked or salted fish."
+________________________________________
+85. You’re choosing snacks for children. Which option is naturally low in sodium?
+•	Options:
+A. Fresh fruit slices
+B. Packaged plantain chips
+C. Cheese crackers
+D. Salted popcorn
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruits are sodium-free and an ideal snack for children."
+________________________________________
+86. You’re preparing African bean soup. How can you reduce sodium?
+•	Options:
+A. Use fresh beans instead of canned beans
+B. Add bouillon cubes for seasoning
+C. Cook with salted meats
+D. Sprinkle salt while cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh beans are lower in sodium compared to canned beans or processed meats."
+________________________________________
+87. You’re making akara (bean fritters). Which frying method keeps sodium low?
+•	Options:
+A. Fry with unsalted oil and no added salt
+B. Add table salt to the batter
+C. Sprinkle salt after frying
+D. Use salted palm oil
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted oil and no added salt ensure akara remains low in sodium."
+________________________________________
+88. You’re cooking jolof rice for a party. How can you reduce sodium without losing flavour?
+•	Options:
+A. Use fresh tomatoes, garlic, and ginger
+B. Add extra bouillon cubes for seasoning
+C. Include canned tomato paste with added salt
+D. Sprinkle salt generously while cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh ingredients like tomatoes, garlic, and ginger reduce sodium while enhancing flavour."
+________________________________________
+89. You’re shopping for fufu flour. What’s the best option for sodium reduction?
+•	Options:
+A. Unseasoned fufu flour
+B. Pre-seasoned fufu mix
+C. Instant fufu with additives
+D. Fufu flour with salt
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unseasoned fufu flour ensures no added sodium in your dish."
+________________________________________
+90. You’re making soup with salted meats. What’s one way to reduce sodium?
+•	Options:
+A. Rinse the salted meats thoroughly before cooking
+B. Add more table salt to balance flavours
+C. Use bouillon cubes for seasoning
+D. Avoid fresh vegetables in the soup
+•	Correct Answer: A
+•	Feedback:
+"Correct! Rinsing salted meats can help remove some of the sodium content."
+________________________________________
+91. You’re choosing snacks for an African cultural event. What’s the healthiest low-sodium option?
+•	Options:
+A. Fresh fruit kebabs
+B. Salted plantain chips
+C. Fried yam with salted seasoning
+D. Cheese-flavoured crackers
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fruit kebabs are naturally sodium-free and suitable for any gathering."
+________________________________________
+92. You’re preparing coconut rice. What’s a sodium-smart adjustment?
+•	Options:
+A. Use fresh coconut milk instead of canned versions with added salt
+B. Cook with salted butter for flavour
+C. Include soy sauce in the recipe
+D. Garnish with salted peanuts
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh coconut milk is naturally sodium-free, unlike some canned versions."
+________________________________________
+93. You’re preparing ogbono soup. How can you make it healthier and lower in sodium?
+•	Options:
+A. Use fresh fish and skip bouillon cubes
+B. Add powdered bouillon for flavour
+C. Use salted palm oil for cooking
+D. Include salted fish in the recipe
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish and avoiding bouillon cubes reduce sodium while keeping the soup flavourful."
+________________________________________
+94. You’re seasoning nyama choma (roasted meat). How can you keep sodium low?
+•	Options:
+A. Use fresh herbs, garlic, and lemon
+B. Add powdered soup mix
+C. Include soy sauce in the marinade
+D. Use salted oil for grilling
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs and lemon provide flavour without added sodium."
+________________________________________
+95. You’re cooking beans for a family meal. What’s a sodium-free option?
+•	Options:
+A. Cook with fresh spices and skip salt
+B. Add pre-packaged soup bases
+C. Sprinkle table salt during cooking
+D. Use salted dry fish as a garnish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh spices are a sodium-free way to enhance the flavour of beans."
+________________________________________
+96. You’re shopping for ready-to-eat meals. Which label indicates the lowest sodium?
+•	Options:
+A. "Low sodium"
+B. "Lightly salted"
+C. "Ready to serve"
+D. "Organic"
+•	Correct Answer: A
+•	Feedback:
+"Correct! Meals labelled 'low sodium' are the healthiest option for reducing sodium intake."
+________________________________________
+97. You’re making light soup. How can you reduce sodium without losing flavour?
+•	Options:
+A. Use fresh vegetables and skip bouillon cubes
+B. Add powdered bouillon for taste
+C. Include canned vegetables with salt
+D. Use salted meats for the base
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh vegetables keep the soup healthy and flavourful without adding sodium."
+________________________________________
+98. You’re preparing puff-puff for a party. How can you make it sodium-free?
+•	Options:
+A. Use sugar and skip salt in the dough
+B. Add salted butter to the mixture
+C. Sprinkle salt after frying
+D. Fry in salted oil
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping salt in the dough keeps puff-puff sodium-free."
+________________________________________
+99. You’re cooking with crayfish powder. What’s a sodium-smart adjustment?
+•	Options:
+A. Use it sparingly to avoid over-seasoning
+B. Add extra salt for balance
+C. Mix with bouillon cubes for taste
+D. Use salted crayfish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using crayfish powder sparingly controls sodium while adding flavour."
+________________________________________
+100. You’re dining out and want to avoid high-sodium African dishes. What’s the best approach?
+•	Options:
+A. Choose grilled dishes without sauces
+B. Add extra salt at the table
+C. Order fried options like plantains with seasoning
+D. Select dishes with salted meats
+•	Correct Answer: A
+•	Feedback:
+"Correct! Grilled dishes without sauces are typically lower in sodium than fried or heavily seasoned options."
+101. You’re cooking egusi soup for a family dinner. Which substitution lowers sodium?
+•	Options:
+A. Replace salted stockfish with fresh fish
+B. Use canned tomatoes instead of fresh tomatoes
+C. Add multiple bouillon cubes for taste
+D. Include salted meats for extra flavour
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish reduces sodium compared to salted stockfish while maintaining a rich flavour."
+________________________________________
+102. You’re preparing akara for breakfast. What’s a sodium-smart adjustment?
+•	Options:
+A. Skip adding salt to the batter
+B. Fry in salted oil
+C. Sprinkle table salt after frying
+D. Add bouillon cubes for seasoning
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping salt in the batter ensures that akara remains low in sodium."
+________________________________________
+103. You’re making beans and plantains. Which step helps reduce sodium?
+•	Options:
+A. Cook beans with fresh garlic and ginger
+B. Add bouillon cubes to the beans
+C. Fry plantains in salted oil
+D. Garnish with salted peanuts
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh garlic and ginger add natural flavour without increasing sodium levels."
+________________________________________
+104. You’re making kelewele (spicy fried plantains). How can you reduce sodium?
+•	Options:
+A. Use a salt-free spice mix
+B. Add table salt to the spice mix
+C. Fry plantains in salted margarine
+D. Sprinkle salt before frying
+•	Correct Answer: A
+•	Feedback:
+"Correct! A salt-free spice mix keeps kelewele flavourful and sodium-free."
+________________________________________
+105. You’re shopping for palm oil for cooking. Which label indicates the healthiest option?
+•	Options:
+A. "No added salt"
+B. "Organic"
+C. "Refined and salted"
+D. "Low calorie"
+•	Correct Answer: A
+•	Feedback:
+"Correct! Palm oil labelled 'no added salt' ensures it doesn’t contribute extra sodium to your dish."
+________________________________________
+106. You’re preparing egusi with pounded yam. What’s the best sodium-reduction strategy?
+•	Options:
+A. Use fresh egusi seeds and unsalted fish
+B. Add pre-packaged soup bases for flavour
+C. Cook with salted meats like goat meat
+D. Use canned stock for the base
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh egusi seeds and unsalted fish keep the sodium levels low while adding flavour."
+________________________________________
+107. You’re making ewedu soup. How can you keep sodium levels low?
+•	Options:
+A. Use fresh ewedu leaves and garlic
+B. Add bouillon cubes for seasoning
+C. Use salted dry fish
+D. Sprinkle salt during cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh ewedu leaves and garlic create a low-sodium, nutrient-rich dish."
+________________________________________
+108. You’re cooking rice and beans. How can you ensure the meal remains low in sodium?
+•	Options:
+A. Use fresh beans and avoid adding salt
+B. Add powdered bouillon to the beans
+C. Cook the rice with salted butter
+D. Garnish with salted fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Using fresh beans and avoiding salt keeps sodium levels low in rice and beans."
+________________________________________
+109. You’re preparing tilapia pepper soup. What’s a sodium-smart adjustment?
+•	Options:
+A. Use fresh tilapia and herbs
+B. Add pre-packaged soup spices
+C. Use salted dry fish
+D. Sprinkle salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh tilapia and herbs enhance flavour without adding sodium."
+________________________________________
+110. You’re preparing yam porridge. What’s the best strategy for reducing sodium?
+•	Options:
+A. Use fresh tomatoes and onions for the base
+B. Add multiple bouillon cubes
+C. Include salted meats
+D. Garnish with salted fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh tomatoes and onions are sodium-free and provide natural flavour."
+________________________________________
+111. You’re cooking banga soup (palm nut soup). Which substitution reduces sodium?
+•	Options:
+A. Use fresh fish instead of salted fish
+B. Include pre-packaged spice mixes
+C. Add extra bouillon cubes
+D. Use canned palm fruit concentrate
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh fish keeps sodium levels low compared to salted alternatives."
+________________________________________
+112. You’re preparing puff-puff for an event. How can you keep it sodium-free?
+•	Options:
+A. Skip adding salt to the dough
+B. Fry in salted vegetable oil
+C. Sprinkle salt after frying
+D. Use salted butter in the dough
+•	Correct Answer: A
+•	Feedback:
+"Correct! Avoiding salt in the dough ensures puff-puff is sodium-free."
+________________________________________
+113. You’re preparing goat meat stew. Which ingredient keeps sodium low?
+•	Options:
+A. Use fresh goat meat and unsalted spices
+B. Add bouillon cubes for seasoning
+C. Include canned tomato paste with added salt
+D. Garnish with salted dry fish
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh goat meat and unsalted spices help reduce sodium levels."
+________________________________________
+114. You’re making kenkey and stew. How can you reduce sodium in the stew?
+•	Options:
+A. Use fresh tomatoes and skip salt
+B. Add powdered bouillon cubes
+C. Include salted fish for flavour
+D. Sprinkle table salt generously
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh tomatoes reduce sodium without compromising flavour."
+________________________________________
+115. You’re preparing African salad (abacha). Which step helps lower sodium?
+•	Options:
+A. Use unsalted dried cassava flakes
+B. Add salted fish as a topping
+C. Use salted palm oil
+D. Sprinkle table salt before serving
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted cassava flakes are naturally low in sodium and a better choice for abacha."
+________________________________________
+116. You’re preparing nkate nkwan (groundnut soup). What’s the best low-sodium option?
+•	Options:
+A. Use unsalted peanut butter for the base
+B. Add salted peanuts to the mixture
+C. Include bouillon cubes for seasoning
+D. Use pre-packaged soup mixes
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted peanut butter helps maintain a low sodium content in nkate nkwan."
+________________________________________
+117. You’re making chapati for dinner. How can you ensure it’s sodium-free?
+•	Options:
+A. Skip salt in the dough and use unsalted butter
+B. Add salt to the dough for flavour
+C. Use pre-seasoned flour
+D. Cook with salted margarine
+•	Correct Answer: A
+•	Feedback:
+"Correct! Skipping salt and using unsalted butter keeps chapati sodium-free."
+________________________________________
+118. You’re shopping for pre-packaged African stews. What’s the best label to look for?
+•	Options:
+A. "No added salt"
+B. "Ready to eat"
+C. "Organic"
+D. "Lightly salted"
+•	Correct Answer: A
+•	Feedback:
+"Correct! 'No added salt' ensures a healthier, low-sodium choice for pre-packaged stews."
+________________________________________
+119. You’re preparing isi ewu (goat head). How can you reduce sodium?
+•	Options:
+A. Use unsalted seasonings like garlic and ginger
+B. Add salted crayfish for flavour
+C. Use bouillon cubes in the seasoning
+D. Sprinkle salt generously while cooking
+•	Correct Answer: A
+•	Feedback:
+"Correct! Unsalted seasonings help keep isi ewu lower in sodium while enhancing natural flavours."
+________________________________________
+120. You’re making African fried rice. What’s a sodium-reduction tip?
+•	Options:
+A. Use fresh herbs and vegetables for seasoning
+B. Add soy sauce for extra flavour
+C. Cook with salted butter
+D. Use pre-seasoned meats as toppings
+•	Correct Answer: A
+•	Feedback:
+"Correct! Fresh herbs and vegetables add natural flavour without sodium."
+

@@ -1,0 +1,101 @@
+/* .BlogList{
+
+} */
+
+
+.listCard{
+    width:100%;
+margin-top:12px;
+    min-height: 50px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px 0px rgb(79, 95, 70),
+    -1px -1px 5px 0px rgb(43, 51, 38);
+    overflow:hidden;
+    cursor: pointer;
+    background:var(--bg);
+    
+}
+
+.listCard:hover .cardHeading{
+    transition: all;
+    transition-duration: 700ms;
+    background: var(--yellow);
+
+}
+.listCard:hover .cardHeading *{
+    color:rgb(206, 219, 209) !important;
+}
+.listCard .cardHeading{
+    padding:10px;
+    height:30px;
+    background: black;
+
+}
+.listCard .cardHeading *{
+font-size: small;
+
+
+}
+
+.listCard .text{
+    padding:5px 10px;
+    color:rgb(225, 231, 223) !important;
+}
+
+
+.listCard b{
+    padding:5px 10px;
+    color:rgb(159, 168, 156) !important;
+}
+
+.salt-table {
+    width:max-content;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .salt-table th,
+  .salt-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .salt-table th {
+    background-color: #0c0c0c;
+    color: white;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+  }
+  
+  .salt-table td {
+    font-size: 1rem;
+    padding: 5px !important;
+
+  }
+  
+  .salt-table tr:nth-child(even) {
+    background-color: #36383f;
+  }
+  
+  .salt-table tr:hover {
+    background-color: #090f09;
+  }
+  
+  .salt-table td:first-child {
+    font-weight: bold;
+  }
+  
+  .salt-table td:last-child {
+    font-style: italic;
+  }
+  
+  .salt-table td,
+  .salt-table th {
+    border-radius: 4px;
+    padding: 5px !important;
+
+  }
+  

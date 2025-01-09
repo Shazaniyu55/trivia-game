@@ -1,0 +1,15 @@
+@keyframes scroll-up {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .loaderBoard.animate-scroll-up {
+    animation: scroll-up 0.4s ease-in-out;
+  }
+  

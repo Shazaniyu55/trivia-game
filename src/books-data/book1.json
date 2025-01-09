@@ -1,0 +1,105 @@
+{
+    "title": "The Basics of Sodium and Health",
+    "subtitle": "A Simple Guide to Managing Sodium for Better Health",
+    "sections": [
+      {
+        "title": "Preface",
+        "content": "We are pleased to introduce The Basics of Sodium and Health, a simple yet comprehensive guide to managing sodium intake. This booklet is designed to provide clear, essential information on sodium’s role in the body, recommended limits, and practical ways to cut back. You will learn how to spot hidden sodium sources, read food labels effectively, and explore flavourful alternatives to salt. We hope this guide helps you make balanced, informed choices every day."
+      },
+      {
+        "title": "About the Author",
+        "content": "Jesse Enebi Usman is a dedicated advocate for health education and equity, with a deep commitment to making healthcare information accessible and impactful. This booklet, developed as part of his doctoral studies at Sheffield Hallam University, reflects Jesse’s focus on improving health outcomes and advancing equitable healthcare access, especially for underserved communities."
+      },
+      {
+        "title": "Acknowledgments",
+        "content": "Special thanks to Sheffield Hallam University for supporting Jesse’s PhD research, which made this project possible. Sincere gratitude to Professor Markos Klonizakis, Professor Charmaine Childs, and Dr. David Rogerson for their mentorship and encouragement."
+      },
+      {
+        "title": "Table of Contents",
+        "items": [
+          "What is Sodium?",
+          "How Much Sodium Do We Need?",
+          "Health Risks of Too Much Sodium",
+          "Benefits of Reducing Sodium",
+          "Practical Tips to Reduce Sodium Intake",
+          "Resources and References"
+        ]
+      },
+      {
+        "title": "Glossary of Terms",
+        "items": {
+          "Sodium": "A mineral essential for body functions like fluid balance, nerve function, and muscle movement.",
+          "Electrolyte": "A substance that carries an electric charge, essential for functions like muscle movement and fluid balance.",
+          "Processed Foods": "Foods that have been altered from their natural state, often containing added sodium for flavor or preservation.",
+          "Low-Sodium Label": "A designation on food packaging indicating reduced sodium content, useful for managing salt intake.",
+          "Hypertension": "Another term for high blood pressure, which can be affected by sodium intake.",
+          "Hidden Sodium": "Sodium added to processed foods that may not be immediately noticeable, often present in items like sauces, bread, and snack foods."
+        }
+      },
+      {
+        "title": "What is Sodium?",
+        "objective": "To understand what sodium is, why it’s essential, and the difference between sodium and salt.",
+        "content": [
+          {
+            "heading": "What is Sodium?",
+            "text": "Sodium is a mineral that keeps our bodies functioning well. Combined with chlorine, it forms table salt, also called sodium chloride. Sodium is known as an 'electrolyte' because it helps transmit electrical signals in the body, supporting many important functions."
+          },
+          {
+            "heading": "Why Do We Need Sodium?",
+            "points": [
+              "Fluid Balance: Sodium helps the body keep the right amount of fluids, which is key for controlling blood pressure.",
+              "Nerve and Muscle Function: Sodium helps send signals in our nerves, allowing us to move our muscles and feel sensations.",
+              "Teamwork with Potassium: Sodium and potassium work together to keep our cells healthy by balancing acid and base levels, moving nutrients into cells, and getting waste out."
+            ]
+          },
+          {
+            "heading": "Everyday Sources of Sodium",
+            "points": [
+              "In Cooking: Table salt is a staple in kitchens worldwide. It enhances Flavors, preserves food, and is often used in food curing.",
+              "In Industry: Sodium compounds, like baking soda, are also used in baking, cleaning, and fire extinguishers."
+            ]
+          }
+        ],
+        "keyTakeaway": "Sodium is essential for health, but too much can be harmful. The following sections will explain how to manage sodium intake for a healthier lifestyle.",
+        "sources": [
+          "Centers for Disease Control and Prevention. (2020). Sodium: The Facts.",
+          "American Heart Association. (2021). How much sodium should I eat per day?"
+        ]
+      },
+      {
+        "title": "How Much Sodium Do We Need?",
+        "objective": "To understand the daily recommended sodium limit and identify common sources of sodium in our diets.",
+        "content": [
+          {
+            "heading": "Sodium Intake Guidelines",
+            "points": [
+              {
+                "organization": "World Health Organization (WHO)",
+                "guideline": "Adults should consume less than 2,000 mg of sodium per day (about 5 grams or 1 teaspoon of salt).",
+                "goal": "Reduce the risk of high blood pressure, stroke, and cardiovascular disease."
+              },
+              {
+                "organization": "American Heart Association (AHA)",
+                "guideline": "Adults should limit sodium intake to no more than 1,500 mg per day, especially those at risk for high blood pressure.",
+                "goal": "Lowering sodium to 1,500 mg can significantly reduce blood pressure and improve heart health."
+              },
+              {
+                "organization": "United Kingdom’s National Health Service (NHS)",
+                "guideline": "No more than 2,400 mg of sodium daily for adults (equivalent to about 6 grams of salt).",
+                "goal": "To help prevent high blood pressure and heart disease through manageable dietary changes."
+              }
+            ]
+          },
+          {
+            "heading": "Common Sources of Sodium",
+            "points": [
+              "Processed and Packaged Foods: Around 70% of the sodium in our diets comes from processed foods like canned soups, processed meats, and snack foods.",
+              "Eating Out: Many restaurant meals are high in sodium because of added sauces and seasoned salts."
+            ]
+          }
+        ],
+        "keyTakeaway": "Reading food labels can help you control sodium intake and make healthier choices."
+      }
+    ]
+  }
+  

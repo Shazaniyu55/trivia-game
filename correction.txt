@@ -1,0 +1,3 @@
+.color scheme 
+
+display all others to be display none : the one user select it display it as block with animation . so i need sections of the contents

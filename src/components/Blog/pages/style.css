@@ -1,0 +1,171 @@
+.blogPage *::selection{
+    background: var(--green);
+}
+
+.blogPage .searchInput input{
+    width: 100%;
+    border-radius: 30px;
+background:none;
+padding:4px 14px ;
+border:none;
+outline:none;
+background:var(--bg);
+color:whitesmoke;
+}
+
+.blogPage .searchInput input:focus{
+    border:1px solid var(--yellowDark);
+    transition:all;
+    transition-duration: 700ms;
+}
+.blogPage .scrollable-content{
+    width: 100%;
+    height: 70vh;
+    max-height: 70vh;
+    overflow:auto;
+}
+
+/* General text color for all children */
+.blogPage .scrollable-content * {
+    color: rgb(201, 221, 205); /* Light green color for consistent theming */
+    margin: 0; /* Reset margin for all elements */
+    padding: 0; /* Reset padding for all elements */
+    box-sizing: border-box; /* Ensure padding and borders are included in the element's dimensions */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    word-break: break-word;
+  }
+.blogPage .scrollable-content a{
+  text-decoration: underline !important;
+}
+.blogPage .scrollable-content a:hover{
+  color:var(--yellowDark);
+}
+  /* Bold text */
+  .blogPage .scrollable-content b {
+    font-weight: bold; /* Ensure boldness */
+    color: rgb(201, 221, 205); /* Match the general text color */
+  }
+  
+  /* Headings */
+  .blogPage .scrollable-content h4 {
+    font-size: 1.25rem; /* Adjust size for readability */
+    font-weight: 600; /* Semi-bold weight for emphasis */
+    margin-bottom: 10px; /* Add spacing for better separation */
+    color: rgb(224, 241, 228); /* Match the color theme */
+  }
+  
+  /* Optional: Styling for other headings, if needed */
+  .blogPage .scrollable-content h1,
+  .blogPage .scrollable-content b,
+  .blogPage .scrollable-content h2,
+  .blogPage .scrollable-content h3 {
+    color: rgb(225, 238, 227); /* Uniform heading color */
+  }
+  
+  /* Links (optional for consistency) */
+  .blogPage .scrollable-content a {
+    color: rgb(201, 221, 205); /* Light green for links */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .blogPage .scrollable-content a:hover {
+    text-decoration: underline; /* Add underline on hover for better UX */
+  }
+  .blogPage .list{
+padding:10px;
+border-radius: 10px;
+background:var(--bg);
+width:95%;
+margin:0 auto;
+margin-top:10px;
+cursor:pointer;
+}
+
+.blogPage  .list a{
+  text-decoration:none !important;
+
+  color:rgb(217, 216, 230);
+}
+
+
+
+
+.blogPage .list{
+  opacity: 0; /* Start hidden */
+  transform: translateY(-20px); /* Start slightly above its final position */
+  animation: slideIn 0.5s ease forwards;
+}
+
+
+
+/* Add more nth-child selectors for additional list items, or use JS for dynamic styling */
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px); /* Start above */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0); /* End at its natural position */
+  }
+}
+
+
+
+section {
+  perspective: 1000px; /* Create a 3D effect */
+  opacity: 0; /* Start hidden */
+  transform-origin: left center; /* Pivot from the left edge */
+  transform: rotateY(-90deg); /* Start turned away */
+  animation: flipOpen 0.8s ease-out forwards !important; /* Animate in */
+}
+
+
+
+/* Add more nth-child selectors for additional sections, or use JS for dynamic delays */
+
+@keyframes flipOpen {
+  0% {
+    opacity: 0;
+    transform: rotateY(-90deg); /* Hidden, rotated */
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+    transform: rotateY(0deg); /* Fully open */
+  }
+}
+
+
+.blogPage .list {
+  opacity: 0;
+  transform: translateY(20px); /* Initially position the element below */
+  transition: opacity 0.6s ease, transform 0.6s ease;
+  transition-duration: 800ms;
+}
+
+.blogPage .list.fade-in {
+  opacity: 1;
+  transform: translateY(0); /* Move the element to its original position */
+}
+.blogPage .coverContainer {
+
+  padding:4px;
+}
+
+
+
+
+.blogPage .coverContainer .list{
+  padding:5px 8px!important;
+}
+.blogPage .coverContainer > div{
+  border:1px solid var(--bg);
+padding-bottom:6px;
+  width: 90%;
+  margin-top: 5px;
+  border-radius:10px;
+}

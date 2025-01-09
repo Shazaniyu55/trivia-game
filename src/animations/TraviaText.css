@@ -1,0 +1,47 @@
+/* Style the container */
+.travia-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 20px auto;
+    width: 300px;
+    height: 35px;
+   
+    color: white;
+    text-shadow:1px 1px green,1px 1px rgb(15, 14, 19);
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    clip-path: polygon(10% 0, 90% 0, 100% 50%, 90% 100%, 10% 100%, 0 50%);
+    background: linear-gradient(30deg, var(--yellowDark) 40%, rgb(252, 106, 8) 50%, var(--yellowDark) 60%);
+    background-size: 200% 200%; /* Ensure gradient has enough space to animate */
+    animation: traviaTxt 3s linear infinite; /* Apply animation */
+  }
+  
+  /* Keyframes for gradient animation */
+  @keyframes traviaTxt {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+  /* Straight line in the middle */
+  div .line {
+    position: absolute;
+    top: 45%;
+    height:4px;
+    width: 100%;
+    background-color: var(--yellowDark);
+    
+  }
+  
+  /* Text styling */
+  .travia-container .text {
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+  }
+  

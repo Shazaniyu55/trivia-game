@@ -1,0 +1,62 @@
+.loadingScreen {
+    height: 100vh;
+    display: flex;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f5f5f5; */
+    z-index:999999;
+  background: linear-gradient(30deg,var(--bg),rgba(3, 58, 109, 0.548));
+  animation: animateGradient 3s linear infinite;
+
+  }
+  
+
+  @keyframes animateGradient {
+    0% {
+      background: linear-gradient(30deg, var(--bg), rgba(3, 58, 109, 0.548));
+    }
+    100% {
+      background: linear-gradient(-30deg, var(--bg), rgba(3, 58, 109, 0.548));
+    }
+  }
+  
+
+  
+  .loadingText {
+    font-weight: 500;
+    font-size:small;
+    animation: pulse 1.5s infinite;
+    color:lightgray;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .buttonContainer  button{
+    background:var(--yellowDark);
+    border:2px solid white;
+  }
+  
+  @keyframes pulse {
+    0% {
+      opacity: 0.7;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.1);
+    }
+    100% {
+      opacity: 0.7;
+      transform: scale(1);
+    }
+  }
+  
