@@ -11,15 +11,11 @@ interface Props {
 }
 
 const LoadingScreen: React.FC<Props> = ({ onButtonClick, loading }) => {
-  const [isChecked, setIsChecked] = useState(false);
 
   useEffect(() => {
     // Any additional side effects can be handled here
   }, []);
 
-  const handleCheckboxChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setIsChecked(event.target.checked);
-  };
 
   return (
     <div
@@ -58,23 +54,11 @@ const LoadingScreen: React.FC<Props> = ({ onButtonClick, loading }) => {
           {loading ? (
             'Loading game data'
           ) : (
-            <div>
-              <input
-                type="checkbox"
-                id="agreeCheckbox"
-                onChange={handleCheckboxChange}
-              />
-              <label
-                htmlFor="agreeCheckbox"
-                style={{ fontSize: '15px', marginLeft: '8px' }}
-              >
-                To Play Game Agree to Legal Document
-              </label>
-            </div>
+           <></>
           )}
         </div>
       </div>
-      {!loading && (
+     
         <Button
           onClick={onButtonClick}
           variant="contained"
@@ -84,11 +68,10 @@ const LoadingScreen: React.FC<Props> = ({ onButtonClick, loading }) => {
             fontSize: '1rem',
             textTransform: 'none',
           }}
-          disabled={!isChecked} // Disable the button unless the checkbox is checked
         >
           Let Me In
         </Button>
-      )}
+      
     </div>
   );
 };

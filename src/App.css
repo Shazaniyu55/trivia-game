@@ -31,20 +31,19 @@ nav{
 
 }   */
   #root {
-    --color: rgb(210, 8, 233); /* Deep green for primary color */
-    --bg: #9606a6; /* Dark green for background */
-    --bg2: #00594f; /* Slightly lighter green for secondary background */
-    --bg3: #007d64; /* Accent green */
-    --white: rgb(245, 245, 245); /* Soft white */
-    --yellow1: rgb(255, 154, 2); /* Light green for highlights */
-    --yellow: rgb(65, 65, 3); /* Vibrant green */
-    --yellowDark: #B2533E; /* Darker green for shadows */
+    --color: #254B85; /* Deep green for primary color */
+    --bg: #FFA805; /* Dark green for background */
+    --bg2: rgba(3, 168, 28, 0.661); /* Slightly lighter green for secondary background */
+    --bg3: #fff; /* Accent green */
+    --white: rgb(0, 0, 0); /* Soft white */
+    --yellow1: #254B85; /* Light green for highlights */
+    --yellow: #254B85; /* Vibrant green */
+    --yellowDark: #254B85; /* Darker green for shadows */
     --whiteBorder: 2px solid rgb(245, 245, 245); /* White border */
-    --green:rgb(0, 200, 83);
+    --green:#254B85;
     max-height: 91vh !important;
-    --bg-dark: #333; /* Dark background color */
-  --bg-hover-dark: #444; /* Hover color for buttons/items */
-  --bg-border: #555; /* Border color for menu */
+    --bg-dark: #fff; /* Dark background color */
+  --bg-border: #fff; /* Border color for menu */
 
     /* max-width:600px; */
 
@@ -69,7 +68,7 @@ nav{
   position:fixed;
   padding:7px;
   margin:0;
-  background:var(--bg);
+  background:rgba(3, 168, 28, 0.661);
   z-index:9999;
   /* max-width:600px; */
 
@@ -114,7 +113,7 @@ padding-right: 16px;
 }
 
 .topCoin *{
-  color:var(--white);
+  color:white;
 }
 
 .HC{

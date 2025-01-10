@@ -20,12 +20,12 @@ const LevelCard: React.FC<props> = ({item,disabled,key}) => {
   return (
     <div className={`levelCard ${disabled ? 'disabled':''}`} style={{border:disabled ? 'none':'',animationDuration:(key*0.5).toString()}} onClick={disabled ? undefined:item.onClick}>
       <div className="levelText">
-        <b style={{color:'var(--green)'}}>{item.name}</b>
+        <b style={{color:'white'}}>{item.name}</b>
         <small>{item.sub}</small>
       </div>
 
       <IconButton aria-label="next level" style={{padding:2}} className="levelButton">
-        {passedLevels.includes(item.levelKey) ? <FaCheckDouble size={18} style={{color:'lightgrey'}} />: disabled ? <FiLock style={{color:'var(--green)'}} />: <FaAngleRight style={{color:'var(--green)'}} color='var(--yellow1)' size={25} />}
+        {passedLevels.includes(item.levelKey) ? <FaCheckDouble size={18} style={{color:'white'}} />: disabled ? <FiLock style={{color:'white'}} />: <FaAngleRight style={{color:'white'}} color='white' size={25} />}
       </IconButton>
     </div>
   );

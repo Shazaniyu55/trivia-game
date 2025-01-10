@@ -13,14 +13,14 @@
     height:50px;
     border-radius:6px;
     background:linear-gradient(30deg,var(--yellow1),var(--yellow));
-    color:rgb(9, 65, 41);
+    color:#fff;
     font-size:26px;
     font-weight:bolder;
     display:flex;
     align-items:center;
     justify-content:center;
-    box-shadow:4px 4px 0px 2px rgb(159, 241, 148),
-    4px 8px 0px 1px rgb(9, 65, 41);
+    box-shadow:4px 4px 0px 2px rgb(28, 28, 28),
+    4px 8px 0px 1px rgb(36, 36, 36);
     text-shadow:inset 1px 0px var(--yellow);
   }
   .word.visible {
@@ -51,8 +51,9 @@ animation-duration: 500ms;
 
   .words div:nth-child(2){
     
-    box-shadow:1px 4px 0px 2px rgb(159, 241, 148),
-    4px 8px 0px 1px rgb(9, 65, 41);
+    box-shadow:4px 4px 0px 2px rgb(28, 28, 28),
+    4px 8px 0px 1px rgb(36, 36, 36);
+    text-shadow:inset 1px 0px var(--yellow);
 
 
   transform:translate(0px,-1px) rotate(-4deg);
@@ -71,8 +72,9 @@ animation-duration: 500ms;
   }
 
   .words div:nth-child(3){
-    box-shadow:1px 4px 0px 2px rgb(159, 241, 148),
-    4px 8px 0px 1px rgb(9, 65, 41);
+    box-shadow:4px 4px 0px 2px rgb(28, 28, 28),
+    4px 8px 0px 1px rgb(36, 36, 36);
+    text-shadow:inset 1px 0px var(--yellow);
   transform:translate(0px,-1px) rotate(4deg);
   animation-name:secondFirst;
   animation-duration: 1s; 
@@ -81,8 +83,9 @@ animation-duration: 500ms;
   }
   .words div:nth-child(4){
     
-    box-shadow:2px 4px 0px 2px rgb(159, 241, 148),
-    4px 8px 0px 1px rgb(9, 65, 41);
+    box-shadow:4px 4px 0px 2px rgb(28, 28, 28),
+    4px 8px 0px 1px rgb(36, 36, 36);
+    text-shadow:inset 1px 0px var(--yellow);
 
   transform:translate(2px,7px) rotate(10deg);
   animation-name:lastLatter;

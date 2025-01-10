@@ -26,7 +26,7 @@ Object.values(statistic).forEach((value) => {
         <div className='bottomNav'>
 
 
-        <Button onClick={()=>{
+        <Button  onClick={()=>{
           navigate('/Feedback')
         }} className='footerButton'>Feedback</Button>
 
