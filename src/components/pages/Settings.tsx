@@ -19,7 +19,9 @@ const Settings: React.FC = () => {
 
   return (
     <div className="settings-container">
-      <h2>Game Settings</h2>
+      <div className="settings-header">
+        <h2>Game Settings</h2>
+      </div>
 
       <div className="volume-settings">
         <div className="slider-container">
