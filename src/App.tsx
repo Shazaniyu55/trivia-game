@@ -9,7 +9,7 @@ import "./App.css";
 import "react-perfect-scrollbar/dist/css/styles.css";
 import 'react-status-alert/dist/status-alert.css';
 
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, } from "react-router-dom";
 import Index from "./components/pages";
 import Quiz from "./components/pages/Quiz";
 import Background from "./animations/background";
@@ -35,6 +35,7 @@ import HealthySaltIntakeForGrowingChildren from "./components/Blog/pages/Healthy
 import Beginner_Guide_to_Salt from "./components/Blog/pages/Beginner_Guide_to_Salt";
 import Guide_for_People_of_African_Descent from "./components/Blog/pages/Guide_for_People_of_African_Descent";
 import Statistic from "./components/Blog/pages/Statistic";
+
 function App() {
   const [loading, setLoading] = useState(true); // Loading state
   const [loadedAudioCount, setLoadedAudioCount] = useState(0); // Track how many audios are loaded
@@ -54,24 +55,31 @@ function App() {
       return prev + 1;
     });
   };
+
+  const handleButtonClick = () => {
+    setLoading(false); // Hide loading screen
+    if (backgroundAudioRef.current) {
+      backgroundAudioRef.current.play(); // Start playing the audio
+    }
+  };
   useEffect(() => {
     if (loadedAudioCount >= 7) {
       // setLoading(false);
     }
 
-    // console.log({loadedAudioCount});
+     //console.log({loadedAudioCount});
   }, [loadedAudioCount]);
 
   useEffect(() => {
     if(backgroundAudioRef.current){
       backgroundAudioRef.current.volume=0.3
     }
-    if(backgroundAudioRef.current){
-      if(backgroundAudioRef.current?.paused)backgroundAudioRef.current.play()
-    backgroundAudioRef.current?.addEventListener('playing',()=>{
- setLoading(false)
-    })
-  }
+//     if(backgroundAudioRef.current){
+//       if(backgroundAudioRef.current?.paused)backgroundAudioRef.current.play()
+//     backgroundAudioRef.current?.addEventListener('playing',()=>{
+//  setLoading(true)
+//     })
+//   }
 
   },[])
 
@@ -95,7 +103,6 @@ function App() {
       }
     }
   }, []);
-
 
 
 
@@ -199,10 +206,7 @@ id="backgroundSound"
       
 
         {loading ? (
-          <LoadingScreen loading={loadedAudioCount !=8} onButtonClick={()=>{
-            if(backgroundAudioRef.current)backgroundAudioRef.current.play();
-            // setLoading(false)
-          }} /> 
+          <LoadingScreen loading={loadedAudioCount !=8} onButtonClick={handleButtonClick} /> 
         ) : (
           <Router>
               <Nav showHeartProgress />
