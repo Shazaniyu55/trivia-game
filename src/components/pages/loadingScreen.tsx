@@ -92,7 +92,7 @@ const LoadingScreen: React.FC<Props> = ({ onButtonClick, loading }) => {
         <DialogTitle>Accept Terms and Conditions</DialogTitle>
         <DialogContent>
           By clicking "Accept", you agree to our terms and conditions. Please read them carefully before proceeding.
-          <a href=''> Terms and condition</a>
+          <a href='https://mind-the-salt-web.vercel.app/policy'> Terms and condition</a>
         </DialogContent>
         <DialogActions>
           <Button onClick={handleCloseDialog} color="secondary">
