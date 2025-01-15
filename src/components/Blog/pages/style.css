@@ -13,6 +13,8 @@ background:var(--bg);
 color:whitesmoke;
 }
 
+
+
 .blogPage .searchInput input:focus{
     border:1px solid var(--yellowDark);
     transition:all;

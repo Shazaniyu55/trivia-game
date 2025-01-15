@@ -13,6 +13,36 @@
     color: white;
 }
 
+.statsList {
+    max-height: calc(80vh - 120px); /* Adjust to fit inside statisticContent */
+    overflow-y: auto;
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: #ff9800 rgba(255, 255, 255, 0.1); /* Firefox */
+  }
+  
+  /* Custom scrollbar for Webkit browsers */
+  .statsList::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .statsList::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+  }
+  
+  .statsList::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #ff9800, #ff5722);
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  .statsList::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #ff5722, #ff9800);
+  }
+  
+
+
+
 .statisticContent h4 {
     background: linear-gradient(90deg, #ff9800, #ff5722);
     border-radius: 50px;
